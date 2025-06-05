@@ -11,4 +11,4 @@ Contents:
   * **travelguide/tests:** Unit tests and testfiles
 * **Generated Travel Guides:** A selection of generated PDF travel guides
 * **Sandbox:** Jupyter notebooks used for sandbox tests (not all functional)
-* **Evaluation Matrix.xlsx: ** Evaluation matrix to measure achievements of project
+* **Evaluation Matrix.xlsx:** Evaluation matrix to measure achievements of project
