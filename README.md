@@ -1,7 +1,7 @@
 # IU-DLMPAIECPT01-TravelGuide
 Travel guide project for IU DLMPAIECPT01 course.
 
-Contents:
+## Contents:
 * **Feedback:** Filled questionnaire from test users to give feedback on the generated travelguides
 * **travelguide:** Python project including source code
   * **travelguide/prompts:** Prompts (incl. examples and json-schemas) – see Table A 1
