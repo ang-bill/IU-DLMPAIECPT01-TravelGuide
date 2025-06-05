@@ -1,0 +1,12 @@
+{
+  "type": "object",
+  "properties": {
+    "wikimedia_urls": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": ["wikimedia_urls"]
+}

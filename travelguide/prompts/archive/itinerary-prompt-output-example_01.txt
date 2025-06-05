@@ -1,0 +1,86 @@
+{
+  "itinerary": [
+    {
+      "day_number": 1,
+      "title": "Day 1: Across the Danube and into the Stone Garden",
+      "description": "Emerge from Wilhelmsburg, cross the mighty Danube perhaps near Krems, and plunge headfirst into the Waldviertel's embrace. Today is about embracing the eastern edges, finding ancient stones, and securing a spot for a sylvan supper.",
+      "route_description": "From Wilhelmsburg, navigate towards the Danube crossing at Krems. Follow signs towards Gföhl. Your first main destination is the Senftenberg Castle Ruin. Afterwards, consider a scenic drive north-east towards Gars am Kamp or Altenburg for the atmosphere, then looping back westwards towards the Gföhl/Jaidenföhnen area to find a quiet overnight spot, perhaps near some woods or a designated Stellplatz if preferred.",
+      "points_of_interest": [
+        "POI_01",
+        "POI_02"
+      ]
+    },
+    {
+      "day_number": 2,
+      "title": "Day 2: Ruins, Rocks, and Rolling Hills",
+      "description": "Awake amidst nature's quietude. Today we delve deeper, seeking out a 'tooth' of history, wandering amongst nature's peculiar sculptures, and finding a grand spot for that picnic basket's glorious bounty.",
+      "route_description": "From your overnight location near Gföhl, head northwest towards Arbesbach to visit its prominent ruin. Afterwards, consider the short detour to Höllfall if conditions seem suitable for a brief nature walk. The main afternoon goal is the Blockheide near Gmünd. Drive through scenic backroads, perhaps via Groß Gerungs or Rappottenstein (viewing from afar if already visited). Find an overnight spot near Gmünd or Heidenreichstein.",
+      "points_of_interest": [
+        "POI_03",
+        "POI_04",
+        "POI_05"
+      ]
+    },
+    {
+      "day_number": 3,
+      "title": "Day 3: Moats, Moors, and the Homeward Trail",
+      "description": "One last dip into the Waldviertel's character. Explore a mighty water castle (from the outside, perhaps, keeping the dog happy), traverse a unique moorland landscape, and then begin the gentle ramble back towards civilization's fuss, perhaps with one final picnic stop.",
+      "route_description": "Start near Heidenreichstein. Visit the Castle environs and then the nearby Moor. Afterwards, begin the journey south. Consider routing via the historical town of Weitra for a brief walk around. Continue southwards on scenic roads, perhaps crossing the Danube at Pöchlarn or Melk, before completing the final leg back to Wilhelmsburg.",
+      "points_of_interest": [
+        "POI_06",
+        "POI_07",
+        "POI_08"
+      ]
+    }
+  ],
+  "poi_details": [
+    {
+      "id": "POI_01",
+      "name": "Senftenberg Castle Ruin",
+      "latitude": 48.4564,
+      "longitude": 15.5758
+    },
+    {
+      "id": "POI_02",
+      "name": "Gföhleramt Area (Potential Picnic/Overnight Area)",
+      "latitude": 48.53,
+      "longitude": 15.48
+    },
+    {
+      "id": "POI_03",
+      "name": "Arbesbach Castle Ruin ('Stockzahn des Waldviertels')",
+      "latitude": 48.4308,
+      "longitude": 14.9253
+    },
+    {
+      "id": "POI_04",
+      "name": "Höllfall near Arbesbach",
+      "latitude": 48.439,
+      "longitude": 14.903
+    },
+    {
+      "id": "POI_05",
+      "name": "Blockheide Gmünd-Eibenstein Nature Park",
+      "latitude": 48.7718,
+      "longitude": 14.9989
+    },
+    {
+      "id": "POI_06",
+      "name": "Heidenreichstein Castle (Wasserburg)",
+      "latitude": 48.8653,
+      "longitude": 15.1199
+    },
+    {
+      "id": "POI_07",
+      "name": "Naturpark Heidenreichsteiner Moor",
+      "latitude": 48.863,
+      "longitude": 15.143
+    },
+    {
+      "id": "POI_08",
+      "name": "Weitra (Historic Town Centre)",
+      "latitude": 48.7008,
+      "longitude": 14.8944
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+Propose an detailed description of tourist attraction useful for a travel guide.
+
+#Take into account following information and context:
+
+##Point of interest:
+{{ poi_ident }}
+
+##Context:
+{{ individual_prompt }}
+
+#Instructions:
+Return the answer as a valid JSON in the same format as in the following example. It is very important to ensure, that the JSON is valid. Enclose all keys and string values in double quotes. Single quotes may be used inside string values if needed.
+
+Take into account: The items in overview-section of the JSON are fixed, whereas the items (and JSON keys) in the need_to_know-section of the JSON should be selected upon the given context and preferences. The description should be half a page. did_you_know and riddles should be 5 items each. The language of the text should be as mentioned earlier.
+
+Do a final check if the JSON is valid as it is processed with Python json.loads(): Check if all keys and string values are enclosed in double quotes. Single quotes may be used inside string values if needed. Use the JSON schema for validation. Only return the JSON without any additional text.
+
+#Example:
+{{ poi_prompt_output_example }}

@@ -1,0 +1,42 @@
+{ 'description': 'Nun, meine Freunde der gepflegten Reisekunst, wenn Sie ein Fleckchen Erde suchen, wo die Geschichte '
+                 'aus den Steinen spricht und die fromme Andacht Hand in Hand mit weltlicher Pracht geht, dann ist das '
+                 'Zisterzienserstift Zwettl eine Adresse, die Sie sich merken sollten. Im Jahre des Herrn 1138 von '
+                 'Hadmar I. von Kuenring gegründet, thront diese ehrwürdige Abtei an einer Flussbiegung des Kamps und '
+                 'hat seither so manche Flut der Geschichte überstanden. Hier können Sie auf Schritt und Tritt die '
+                 'Baukunst verschiedener Epochen bewundern: die romanischen Rundbögen in den ältesten Teilen, die '
+                 'himmelstrebende Gotik im Kreuzgang und der Kirche und die barocke Üppigkeit, die später hinzugefügt '
+                 'wurde und dem Ganzen einen Hauch von Grandezza verleiht. Der Kreuzgang selbst ist ein Meisterwerk, '
+                 'der älteste romanisch-gotische im deutschen Sprachraum, und seine Säulen erzählen ihre eigenen '
+                 'Geschichten. Die weitläufigen Gärten laden zum Flanieren und Verweilen ein, ein Paradies für Mensch '
+                 'und Tier gleichermaßen. Hier kann der Nachwuchs nach Herzenslust stromern und der vierbeinige Freund '
+                 'schnuppern, während Sie die Seele baumeln lassen. Im Stiftsrestaurant oder im Café in der Orangerie '
+                 'können Sie sich stärken und die regionale Küche genießen, ideal für eine Pause unter freiem Himmel. '
+                 'Bedenken Sie jedoch, dass dieses Juwel im Waldviertel liegt. Von Lafnitz bei Hartberg aus ist es '
+                 'eine längere Fahrt. Planen Sie daher ausreichend Zeit ein, um den Tag stressfrei zu gestalten und '
+                 'die An- und Abreise für Kind und Hund angenehm zu halten.',
+  'did_you_know': [ 'Das Stift Zwettl wurde im Jahr 1138 von Hadmar I. von Kuenring gegründet.',
+                    'Es ist die drittälteste durchgehend besiedelte Zisterzienserabtei der Welt.',
+                    'Das Kapitelhaus des Stifts ist das älteste erhaltene Zisterzienser-Kapitelhaus Österreichs.',
+                    'Der romanisch-gotische Kreuzgang gilt als der älteste im deutschen Sprachraum.',
+                    'Die barocke Bibliothek des Stifts beherbergt etwa 28.000 Bücher, und die Deckenmalereien stammen '
+                    'von Paul Troger.'],
+  'gps_lat': '48.6099',
+  'gps_lon': '15.1638',
+  'need_to_know': { 'accessibility': 'Teilweise barrierefrei, kinderwagentauglich',
+                    'gastronomy': 'Restaurant, Café/Orangerie mit Außenbereich',
+                    'kid_dog_friendly': 'Hund erlaubt (Gärten), kinderfreundlich (spezielle Touren)',
+                    'parking': 'Kostenlos vor Ort',
+                    'picnic_spots': 'Vorhanden'},
+  'overview': { 'best_time': 'Tagsüber, abhängig von den gewünschten Besichtigungen',
+                'duration': '2-3 Stunden',
+                'wc': 'Vorhanden'},
+  'poi_id': 'POI-03',
+  'poi_name': 'Stift Zwettl (Zwettl Abbey)',
+  'poi_type': 'Klosteranlage',
+  'riddle_answers': ['Der Kamp', '365', '1138', 'Paul Troger', 'Barock'],
+  'riddles': [ 'Welcher Fluss umfließt das Stift in einer Schleife?',
+               'Wie viele Steinsäulen soll der berühmte Kreuzgang der Legende nach haben?',
+               'In welchem Jahr wurde das Stift Zwettl gegründet?',
+               'Welcher berühmte Barockmaler schuf die Deckenbilder in der Stiftsbibliothek?',
+               'Neben der Romanik und Gotik, welche dritte bedeutende Stilepoche prägt das Erscheinungsbild des '
+               'Stifts?']}

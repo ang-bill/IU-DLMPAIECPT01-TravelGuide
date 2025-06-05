@@ -1,0 +1,53 @@
+{ 'description': 'Ah, Gmünd! Ein feiner Ort, um sich die Füße zu vertreten und den knurrenden Magen zu besänftigen, '
+                 'besonders wenn man mit einer kleinen Karawane aus Kind und Hund unterwegs ist. Gelegen im Herzen des '
+                 'Waldviertels, dort wo die Granitriesen aus dem Boden lugen und die Teiche in der Sonne blinzeln, '
+                 'bietet Gmünd eine willkommene Pause auf unserer Reise. Diese Stadt an der Grenze zu Tschechien hat '
+                 'nicht nur historische Bauten und charmante Sgraffito-Fassaden zu bieten, sondern auch genügend '
+                 'Grünflächen, auf denen sich der Vierbeiner erleichtern und das Kleinkind die Beine ausstrecken kann. '
+                 'Man munkelt, dass im Waldviertel einst der höchste Berg des Ur-Kontinents stand – der '
+                 '„Wolkenspiegel“. Davon ist heute zwar nichts mehr zu sehen, aber das Hoch-Land ist geblieben, '
+                 'unverfälscht und ehrlich. In Gmünd findet man eine Mischung aus Geschichte, Natur und Gemütlichkeit '
+                 '– genau das Richtige für eine entspannte Mittagspause. Ob ein kurzer Bummel über den Stadtplatz mit '
+                 'Blick auf das Alte Rathaus oder ein kleiner Abstecher in einen der Parks, hier lässt es sich '
+                 'aushalten, bevor wir uns wieder den Wundern der Oststeiermark zuwenden. Und für die hungrigen Seelen '
+                 'unter uns gibt es genügend Möglichkeiten, gutbürgerlich und im Freien zu speisen – auch mit '
+                 'tierischer Begleitung.',
+  'did_you_know': [ 'Gmünd liegt direkt an der Grenze zu Tschechien und ist über Grenzübergänge für Fußgänger, '
+                    'Radfahrer und Autos verbunden.',
+                    'Im Waldviertel, zu dem Gmünd gehört, gab es vor 300 Millionen Jahren einen legendären Berg namens '
+                    '„Wolkenspiegel“.',
+                    'Die Waldviertler Schmalspurbahnen verkehren ab Gmünd in verschiedene Richtungen und bieten ein '
+                    'nostalgisches Reiseerlebnis.',
+                    'Neben der Blockheide gibt es in der Umgebung von Gmünd weitere Naturparks und Moore zu entdecken.',
+                    'Gmünd ist bekannt für seine Granitsteine und Wackelsteine, besonders im Naturpark Blockheide.'],
+  'gps_lat': '48.7671',
+  'gps_lon': '14.9864',
+  'need_to_know': { 'accessibility': 'Das Stadtzentrum ist teilweise über eine Aufzugsanlage barrierefrei erreichbar.',
+                    'dog_leash_requirement': 'In der Blockheide besteht Leinenpflicht, in der Stadt ist es ratsam.',
+                    'gastronomy_recommendations': 'Cafés und nette Lokale mit Sitzgelegenheiten im Freien und '
+                                                  'gutbürgerlicher Küche sind vorhanden.',
+                    'kid_dog_friendly': '✔️ Ja, es gibt Grünflächen und hundefreundliche Lokale.',
+                    'parking': 'Kostenlose Dauerparkplätze in der Mühlgasse, Kurzparkzonen im Zentrum (max. 120 '
+                               'Minuten).',
+                    'picnic_spots': 'Schlosspark oder Stadtpark bieten Grünflächen.'},
+  'overview': { 'best_time': 'Mittagszeit, ideal für eine Stärkung',
+                'duration': 'ca. 1,5 - 2 Stunden',
+                'wc': 'Vorhanden in Cafés und Restaurants'},
+  'poi_id': 'POI-06',
+  'poi_name': 'Gmünd (Lunch stop)',
+  'poi_type': 'Stadt',
+  'riddle_answers': [ 'Gmünd',
+                      'Der Wolkenspiegel',
+                      'Die Waldviertler Schmalspurbahn',
+                      'Die Sole Felsen Welt oder das Gmünder Strandbad',
+                      'Der Schlosspark'],
+  'riddles': [ 'Ich bin eine Stadt im Waldviertel, an der Grenze gelegen. Mit Granit und Teichen, Geschichte und '
+               'Wegen. Wer bin ich?',
+               'Ein Berg gab es einst hier, hoch und alt. Vom Ur-Kontinent Zeuge, im Wald versteckt fast halt. Wie '
+               'hieß er?',
+               'Auf schmalen Spuren schnaufe ich durch das Land, verbinde Orte mit nostalgischem Band. Wer oder was '
+               'bin ich hier in Gmünd?',
+               'Nicht nur Steine, auch Wasser lockt hier sehr. Zum Baden und Entspannen, immer mehr und mehr. Was '
+               'zieht Wasserratten nach Gmünd?',
+               "Ein Park in Gmünd, grün und fein, lädt zum Verweilen, Groß und Klein. Botanische Raritäten soll's hier "
+               'geben. Wie heißt dieser Park, der uns lässt leben?']}

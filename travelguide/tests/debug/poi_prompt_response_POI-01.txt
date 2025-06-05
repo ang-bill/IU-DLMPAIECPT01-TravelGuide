@@ -1,0 +1,44 @@
+{ 'description': 'Nun, meine lieben Reisegefährten, wenn Sie dachten, die Steiermark wäre nur für ihre Kürbisfelder '
+                 'und Weinstraßen bekannt, dann halten Sie mal Ihre Pferde! Es gibt da ein Fleckchen Natur, das selbst '
+                 'dem erfahrensten Wanderer ein Staunen entlockt – der Hammerfall Waterfall.  Es ist kein Niagara, '
+                 'gewiss nicht, aber hat seinen eigenen, stillen Zauber, der Herz und Seele erquickt. Stellen Sie sich '
+                 'vor: Wasser, das über Felsen tanzt, Gischt, die in der Sonne glitzert, und dazu das Rauschen, eine '
+                 'Melodie, komponiert von Mutter Natur höchstpersönlich.  Der Weg dorthin ist kein Marsch über die '
+                 'Alpen, aber auch kein Sonntagsspaziergang im Stadtpark. Ein bisschen Trittsicherheit ist von '
+                 'Vorteil, besonders mit kleinen Entdeckern an der Hand und einem neugierigen Vierbeiner an der '
+                 'Leine.  Doch die Mühe lohnt sich, versprochen! Unten angekommen, eröffnet sich Ihnen ein Bild, das '
+                 'Sie so schnell nicht vergessen werden. Es ist der perfekte Ort, um eine Rast einzulegen, die '
+                 'mitgebrachten Schätze aus dem Picknickkorb zu genießen und einfach mal die Seele baumeln zu lassen. '
+                 'Die Luft ist frisch, erfüllt vom Duft des Waldes und der feuchten Erde. Ein Paradies für kleine '
+                 'Abenteurer, die gerne Steine ins Wasser werfen, und für Hunde, die Wasser lieben. Bedenken Sie nur, '
+                 'dass ein Kleinkind hier wahrscheinlich eine Tragehilfe braucht, da der Weg mit einem Kinderwagen '
+                 'schwierig werden könnte.  Es ist ein Ort, der zur Entschleunigung einlädt, ein kleines Juwel '
+                 'inmitten der grünen Mark, das beweist, dass die größten Schätze oft abseits der ausgetretenen Pfade '
+                 'liegen.',
+  'did_you_know': [ "Der Name 'Hammerfall' klingt vielleicht nach einem Götterstreit, ist aber wohl eher auf das "
+                    'donnernde Geräusch des Wassers zurückzuführen.',
+                    'Wasserfälle waren schon immer Orte, die die Fantasie anregten und in Sagen und Geschichten '
+                    'vorkamen.',
+                    'Die Umgebung des Wasserfalls ist ein Rückzugsort für verschiedene Tier- und Pflanzenarten.',
+                    'Ein starker Wasserfall, besonders durch Schmelzwasser gespeist, kann beeindruckend laut sein.',
+                    'Picknicks in der Natur sind eine altehrwürdige Tradition und schmecken nirgends besser als mit '
+                    'solch einer Aussicht.'],
+  'gps_lat': '48.3269',
+  'gps_lon': '15.2492',
+  'need_to_know': { 'accessibility': 'Der Weg zum Wasserfall kann uneben sein. Für Kinderwagen eher ungeeignet. '
+                                     'Tragehilfe für Kleinkind empfehlenswert.',
+                    'kid_dog_friendly': '✔️ Ja, unter Aufsicht. Der Hund sollte angeleint bleiben.',
+                    'parking': 'Begrenzte Parkmöglichkeiten in der Nähe, eventuell etwas Fußweg einplanen.',
+                    'picnic_spots': 'Schöne Plätze in der Umgebung bieten sich für ein Picknick an.'},
+  'overview': { 'best_time': 'Vormittag oder Spätnachmittag',
+                'duration': '1-2 Stunden',
+                'wc': 'Nicht direkt am Wasserfall, eventuell bei nahegelegenen Gasthäusern'},
+  'poi_id': 'POI-01',
+  'poi_name': 'Hammerfall Waterfall',
+  'poi_type': 'Naturdenkmal',
+  'riddle_answers': ['Ein Wasserfall', 'Ein Wasserfall', 'Ein Wasserfall', 'Bei einem Wasserfall', 'Ein Wasserfall'],
+  'riddles': [ 'Ich habe kein Sprachrohr, doch ich rausche laut. Ich habe keine Füße, doch ich falle. Wer bin ich?',
+               'Ich bin nass, aber kein Meer. Ich tanze über Steine, bin aber keine Fee. Was bin ich?',
+               'Manche nennen mich einen Fall, doch ich stehe nicht still. Was bin ich?',
+               'Ich bin das Ergebnis von Höhe und Wasser. Wo findest du mich?',
+               'Ich lade zum Verweilen ein, bin aber ständig in Bewegung. Was bin ich?']}

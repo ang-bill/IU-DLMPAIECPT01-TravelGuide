@@ -1,0 +1,251 @@
+{ 'closing_remarks': 'So, nun ist der Plan gemacht – oder besser gesagt, eine Richtung vorgegeben. Packen Sie Kind, '
+                     'Hund und gute Laune ein. Niederösterreichs Hinterhof-Schätze warten darauf, von Ihnen entdeckt '
+                     'zu werden. Möge der Sprit günstig, das Wetter gnädig und die Picknickdecke trocken sein! Viel '
+                     'Vergnügen!',
+  'foreword_itinerary': [ 'Nun, da Sie ja in Wilhelmsburg residieren und die üblichen Pfade wohl schon in- und '
+                          'auswendig kennen – die Fußgängerzone, der lokale Supermarkt, der schnellste Weg zum '
+                          'Baumarkt – schlage ich vor, wir schnüren unsere Siebenmeilenstiefel (oder besser gesagt, '
+                          "starten die Zündung des fahrbaren Untersatzes) und erkunden den 'Hinterhof'. Jene Ecken, "
+                          'die nicht in jedem Hochglanzprospekt prangen, aber ihren ganz eigenen Charme haben. Ecken, '
+                          'die sich auch einem Zweijährigen und einem vierbeinigen Freund erschließen, ohne dass '
+                          'Langeweile oder Leinenbruch drohen.',
+                          "Vergessen Sie den Druck, 'alles' sehen zu müssen. Wir sind Tagesausflügler vom Fach! Das "
+                          'Programm ist eher eine freundliche Einladung zum Herumstromern, zum Entdecken im eigenen '
+                          'Tempo. Der große Hund muss schnüffeln dürfen, das kleine Kind will rennen (oder getragen '
+                          'werden, je nach Laune), und die Eltern wollen auch mal durchatmen, vielleicht bei einem '
+                          'Kaffee mit Aussicht oder einem Bissen vom mitgebrachten Proviant.',
+                          'Hier sind fünf Vorschläge für Samstage oder Sonntage, die hoffentlich ein paar '
+                          'Überraschungen bereithalten und zeigen, dass Abenteuer oft gleich um die Ecke warten, man '
+                          'muss nur bereit sein, abzubiegen:'],
+  'hints_and_comments': [ { 'description': 'Ihr Auto ist Ihr treuer Kumpan. Es ermöglicht uns, die ausgetretenen Pfade '
+                                           'zu verlassen. Seien Sie bereit, auch mal auf kleineren, unbefestigten '
+                                           'Straßen unterwegs zu sein (vorsichtig!). Das wahre Niederösterreich '
+                                           'versteckt sich oft abseits des Asphalts.',
+                            'title': 'Der fahrbare Untersatz'},
+                          { 'description': 'Planen Sie Pausen ein, die keine POIs sind, sondern einfach nur Zeit zum '
+                                           'Rennen, Toben, Schnüffeln. Picknicks sind ideal, da sie keine '
+                                           'Tischanforderungen haben. Achten Sie auf gekennzeichnete Wege, '
+                                           'Leinenpflicht und nehmen Sie immer genug Wasser für alle mit. Ruinen sind '
+                                           'tolle Abenteuerspielplätze (unter Aufsicht!), Wälder das Paradies.',
+                            'title': 'Kind & Hund – Das Dreamteam'},
+                          { 'description': 'Es braucht keine Gourmetküche. Eine gute Jause, eine Decke, ein schöner '
+                                           'Platz – das ist Luxus pur. Am Fluss, am Waldrand, mit Aussicht. Das ist '
+                                           'oft das Highlight des Tages, besonders für die kleine Reisegesellschaft.',
+                            'title': 'Picknick-Philosophie'},
+                          { 'description': 'Wenn die Lust auf Kochen oder Proviant fehlt, suchen Sie bewusst nach '
+                                           'Gasthäusern mit schattigem Gastgarten. Gutbürgerliche Küche in '
+                                           'Niederösterreich ist selten eine Enttäuschung, und die offene '
+                                           'Sitzgelegenheit macht es mit Kind und Hund entspannter.',
+                            'title': 'Gastgarten-Glück'},
+                          { 'description': 'Wir haben Stifte und Ruinen eingeplant. Aber halten Sie auch in kleinen '
+                                           'Dörfern Ausschau nach alten Kirchen, Marterln am Wegesrand oder besonderen '
+                                           'alten Häusern. Die Geschichte dieser Region steckt oft in den kleinen '
+                                           'Dingen.',
+                            'title': 'Geschichte im Vorbeigehen'},
+                          { 'description': 'Ein schlechtes Wetterfenster? Die Laune des Zweijährigen im Keller? Der '
+                                           'Hund braucht eine Extra-Pause? Kein Problem. Diese Vorschläge sind nur '
+                                           'Rahmen. Tauschen Sie Tage, kürzen Sie ab, verlängern Sie eine Pause. Es '
+                                           'ist Ihr Ausflug, Ihr Abenteuer.',
+                            'title': 'Flexibilität ist Gold wert'}],
+  'history_destination': [ 'Ach, die Gegend um Wilhelmsburg! Manch einer mag denken, das sei nur das Vorzimmer zu St. '
+                           'Pölten oder ein beschaulicher Flecken auf dem Weg ins Mostviertel. Doch wer genauer '
+                           'hinschaut, der findet hier eine Landschaft mit Charakter, geformt vom sanften Übergang der '
+                           'Voralpen zur Donau-Ebene, durchzogen von Flüssen wie Traisen, Pielach und Gölsen. Das ist '
+                           'kein lautes Land der Weltsensationen, sondern eines, das seine Geschichten leise erzählt, '
+                           'oft im Schatten alter Klostermauern oder am Fuße vergessener Burgruinen.',
+                           'Die Besiedelung nahm hier schon früh Fahrt auf, die Römer hinterließen Spuren entlang der '
+                           'Flusstäler. Doch die richtig tiefen Wurzeln schlug das Land im Mittelalter. Klöster wie '
+                           'das mächtige Lilienfeld im nahen Gölsental oder später das barockisierte Stift '
+                           'Herzogenburg (liegt etwas weiter weg, aber der Einfluss reicht) waren nicht nur Orte des '
+                           'Gebets, sondern auch Zentren der Kolonisation, des Ackerbaus und der Bildung. Sie prägten '
+                           'die Landschaft und die Menschen für Jahrhunderte.',
+                           'Gleichzeitig war die Region durch ihre Lage immer wieder von Bedeutung für Handel und '
+                           'Verteidigung. Burgen und Wehrkirchen säumten die Täler und Hügel, nicht so berühmt wie die '
+                           'Donaufestungen der Wachau, aber nicht minder wehrhaft. Sie schützten Handelswege, '
+                           'sicherten Besitztümer und zeugen heute noch von turbulenten Zeiten, in denen das Leben '
+                           'wohl rauer war als ein Glas Most im Oktober.',
+                           'Die Landwirtschaft hat das Bild der Gegend über Jahrhunderte geprägt – fruchtbare Täler, '
+                           'Streuobstwiesen, sanfte Hügel, die Raum für Vieh und Äcker bieten. Industrie entwickelte '
+                           'sich punktuell entlang der Flüsse, aber die Gegend behielt stets ihren überwiegend '
+                           'ländlichen Charakter. Das ist ein Landstrich, der Stürme überstanden hat, von Bauern, '
+                           'Handwerkern und Mönchen geformt wurde und heute eine Mischung aus Geschichte zum Anfassen '
+                           '(wenn man genau hinschaut), unverfälschter Natur und einer gewissen niederösterreichischen '
+                           'Gelassenheit bietet. Ein idealer Spielplatz für Tagträumer, Geschichtsdetektive im '
+                           'Kleinformat und solche, die einfach mal rauswollen.'],
+  'itinerary': [ { 'day_number': 1,
+                   'points_of_interest': [ { 'id': 'POI-01',
+                                             'latitude': 48.0975,
+                                             'longitude': 15.5806,
+                                             'name': 'Stift Lilienfeld (Außenanlagen & Kreuzgang)'},
+                                           { 'id': 'POI-02',
+                                             'latitude': 48.14,
+                                             'longitude': 15.58,
+                                             'name': 'Pielachufer bei Hofstetten-Grünau (Picknick & Spaziergang)'}],
+                   'route_description': [ "Vormittag (Fahrzeit ~30-40 Min): Vom heimatlichen Wilhelmsburg geht's "
+                                          'Richtung Südwesten, hinein ins Pielachtal. Eine liebliche Gegend, nicht zu '
+                                          'steil, nicht zu flach. Unser Ziel ist Lilienfeld. Fahren Sie durch die '
+                                          'Ortschaften, die an der Pielach aufgereiht sind wie Perlen an einer Schnur '
+                                          '– Hofstetten, Weinburg... die Landschaft wird sanfter und grüner.',
+                                          'Später Vormittag: Stift Lilienfeld (POI-01). Ein Zisterzienserkloster aus '
+                                          'dem 13. Jahrhundert. Gewiss, das Innere mag für einen Zweijährigen eher... '
+                                          'fordernd sein, aber die Anlage ist riesig! Der Kreuzgang ist '
+                                          'gotisch-romanisch beeindruckend, und die weitläufigen Außenanlagen '
+                                          '(Klosterpark!) sind perfekt für einen Hundespaziergang und um dem Kind '
+                                          'Platz zum Toben zu geben (natürlich mit angemessener '
+                                          'Klostersommerfrische-Contenance). Man kann die Pracht von außen bewundern '
+                                          'und sich vorstellen, wie das Leben hinter diesen Mauern wohl einst war.',
+                                          'Mittagessen: Packen Sie den Picknickkorb! Die Pielach ist hier Ihr bester '
+                                          'Freund. Finden Sie ein schönes Plätzchen am Flussufer, vielleicht in der '
+                                          'Nähe von Hofstetten-Grünau (POI-02), wo man gut ans Wasser kommt und die '
+                                          'Füße (und Pfoten) kühlen kann. Nichts schmeckt besser als eine Semmel im '
+                                          'Freien, mit Flussmusik im Hintergrund.',
+                                          'Nachmittag: Ein kurzer, gemütlicher Spaziergang entlang des '
+                                          'Pielachtalradwegs, der hier meist flach ist und nette Ausblicke bietet. '
+                                          'Oder einfach nur am Flussufer sitzen, Steine ins Wasser werfen (nur die '
+                                          'Kinder!) und die Seele baumeln lassen, bevor es entspannt zurück nach '
+                                          'Wilhelmsburg geht.'],
+                   'summary': 'Ein Ausflug flussaufwärts ins Pielachtal, wo die Geschichte in alten Steinen steckt und '
+                              'der Fluss zum Picknick einlädt. Kurz, knackig und für Groß und Klein (und Hund) '
+                              'machbar.',
+                   'title': 'Tag 1: Ins Pielachtal – Abtei-Mauern und Flussrauschen'},
+                 { 'day_number': 2,
+                   'points_of_interest': [ { 'id': 'POI-03',
+                                             'latitude': 48.2127,
+                                             'longitude': 15.6326,
+                                             'name': 'Burgruine Hohenegg'},
+                                           { 'id': 'POI-04',
+                                             'latitude': 48.23,
+                                             'longitude': 15.65,
+                                             'name': 'Waldrand / Lichtung im Dunkelsteinerwald (Picknick-Spot)'}],
+                   'route_description': [ "Vormittag (Fahrzeit ~40-50 Min): Heute geht's nordwestlich von "
+                                          'Wilhelmsburg, über die Traisen und rein in die Ausläufer des '
+                                          'Dunkelsteinerwaldes. Das ist eine Gegend, die ihren Namen '
+                                          '(Dunkelsteinerwald!) nicht von ungefähr hat – es kann durchaus schattig und '
+                                          'mystisch werden, aber gerade das macht ihren Reiz aus.',
+                                          'Später Vormittag: Die Burgruine Hohenegg (POI-03) thront auf einem Hügel. '
+                                          'Das ist keine aufgehübschte Touristenattraktion, sondern eine echte, '
+                                          'ehrliche Ruine. Man kann (vorsichtig!) durch die Überreste streifen, die '
+                                          'Mauern bestaunen und sich vorstellen, wie hier einst Wachen '
+                                          'patrouillierten. Der Weg hinauf ist kurz, aber steil – gut für den '
+                                          'Kreislauf und die Erkundungsfreude des Kindes (an die Hand nehmen!). Die '
+                                          'Aussicht von oben über die Umgebung ist fantastisch und belohnt für jede '
+                                          'Anstrengung.',
+                                          'Mittagessen: Picknick mit Panorama! Suchen Sie sich nach dem Abstieg von '
+                                          'Hohenegg einen schönen Platz in den umliegenden Wäldern oder auf einer '
+                                          'Lichtung. Vielleicht in der Nähe eines Waldrandes, der den Blick freigibt '
+                                          '(POI-04). Die Gegend ist voll von kleinen Straßen und Wegen, die oft zu '
+                                          "versteckten Ecken führen. 'Ein Sandwich im Freien schmeckt dreimal besser "
+                                          "als drinnen,' sagte schon ein weiser Mann (vermutlich ich, gerade jetzt).",
+                                          'Nachmittag: Ein gemütlicher Spaziergang auf einem der vielen Waldwege im '
+                                          'Dunkelsteinerwald. Achten Sie auf die Wegweiser, aber verlieren Sie sich '
+                                          'nicht ganz – es sei denn, Sie wollen das! Es gibt viel zu entdecken für '
+                                          'neugierige Kinderaugen und Hundenasen: Blätter, Käfer, Stöcke... und die '
+                                          'Stille des Waldes.'],
+                   'summary': 'Hinein in die Hügel des Dunkelsteinerwaldes, auf den Spuren alter Ritter und mit '
+                              'Aussicht, die das Herz weit macht. Eine Prise Geschichte, viel Natur und frische Luft.',
+                   'title': 'Tag 2: Geheimnisse des Dunkelsteinerwaldes – Ruine mit Weitblick'},
+                 { 'day_number': 3,
+                   'points_of_interest': [ { 'id': 'POI-05',
+                                             'latitude': 47.99,
+                                             'longitude': 15.98,
+                                             'name': 'Triestingtal-Spazierweg (Bereich Altenmarkt/Kaumberg)'},
+                                           { 'id': 'POI-06',
+                                             'latitude': 47.988,
+                                             'longitude': 15.988,
+                                             'name': 'Altenmarkt an der Triesting (Ortskern / Gasthaus-Suche)'}],
+                   'route_description': [ 'Vormittag (Fahrzeit ~40-50 Min): Vom Mostviertelrand geht es gen Südosten, '
+                                          'Richtung Wienerwald-Ausläufer und ins obere Triestingtal. Ortschaften wie '
+                                          'Altenmarkt an der Triesting erwarten uns. Die Fahrt selbst ist schon '
+                                          'landschaftlich reizvoll, wenn man sich abseits der Hauptrouten hält.',
+                                          'Später Vormittag: Ein gemütlicher Spaziergang entlang der Triesting '
+                                          '(POI-05). Der Fluss windet sich hier durch die Landschaft, es gibt oft '
+                                          'schöne, leicht zugängliche Uferabschnitte oder kleine Brücken. Perfekt für '
+                                          'das Kind, um die Balance zu üben, und für den Hund, um neue Gerüche zu '
+                                          'erkunden. Finden Sie eine ruhige Ecke, hören Sie dem Wasser zu. Das ist '
+                                          'Natur-Wellness auf Niederösterreichisch.',
+                                          'Mittagessen/Nachmittag: Heute wechseln wir vom Picknick zur Gastronomie. '
+                                          'Suchen Sie sich ein nettes Gasthaus mit einem schönen Gastgarten in einer '
+                                          'der Triestingtal-Ortschaften wie Altenmarkt an der Triesting (POI-06) oder '
+                                          "Kaumberg. Dort gibt es meist bodenständige, gute Küche ('gutbürgerlich' "
+                                          'eben!) und vor allem Platz im Freien, wo der Hund sich unter dem Tisch '
+                                          'räkeln kann und das Kind nach dem Essen auf Erkundungstour gehen darf '
+                                          '(natürlich im erlaubten Radius).',
+                                          'Später Nachmittag: Nach der Stärkung vielleicht noch ein kleiner '
+                                          'Dorfbummel, eine Eis-Pause (für die Zweibeiner) oder einfach den Heimweg '
+                                          'antreten, wenn die kleine Reisegesellschaft müde wird. Der Fokus heute '
+                                          'liegt auf Entspannung und Genuss in schöner Umgebung.'],
+                   'summary': 'Ein Abstecher Richtung Südosten ins Triestingtal, wo der Fluss seinen Weg sucht und '
+                              "gemütliche Einkehr lockt. Heute steht weniger 'sehen müssen', dafür mehr 'genießen "
+                              "dürfen' auf dem Plan.",
+                   'title': 'Tag 3: Triestingtal-Impressionen – Flussmäander und Gastgarten-Glück'},
+                 { 'day_number': 4,
+                   'points_of-interest': [ { 'id': 'POI-07',
+                                             'latitude': 48.0349,
+                                             'longitude': 15.7711,
+                                             'name': 'Pfarrkirche Hainfeld'},
+                                           { 'id': 'POI-08',
+                                             'latitude': 48.03,
+                                             'longitude': 15.76,
+                                             'name': 'Gölsen-Ufer bei Hainfeld (Picknick & Spaziergang)'}],
+                   'route_description': [ 'Vormittag (Fahrzeit ~30-40 Min): Wieder zieht es uns Richtung Südwesten ins '
+                                          'Gölsen-Tal. Das ist das Tal, durch das man auch nach Lilienfeld kommt, aber '
+                                          'heute biegen wir vielleicht früher ab oder konzentrieren uns auf andere '
+                                          'Ecken.',
+                                          'Später Vormittag: Hainfeld ist eine etwas größere Ortschaft im Gölsen-Tal. '
+                                          'Die Pfarrkirche Hainfeld (POI-07) ist ein Blick wert – eine Mischung aus '
+                                          'verschiedenen Baustilen, die ihre lange Geschichte erzählt. Man kann sie '
+                                          'von außen bewundern und, wenn gerade offen und die Stimmung passt, einen '
+                                          'kurzen Blick ins Innere werfen. Es ist keine Kathedrale, aber eine solide, '
+                                          'ehrwürdige Dorfkirche mit Charakter. Der umgebende Platz bietet oft Raum '
+                                          'zum Durchatmen.',
+                                          'Mittagessen: Heute wieder ein Picknick? Entlang der Gölsen gibt es '
+                                          'ebenfalls schöne Uferabschnitte und zugängliche Stellen (POI-08), oft '
+                                          'ruhiger als an der Pielach. Suchen Sie sich einen Platz, breiten Sie Ihre '
+                                          'Decke aus und lassen Sie sich die mitgebrachten Köstlichkeiten schmecken. '
+                                          'Das Geräusch des fließenden Wassers ist gratis und unschlagbar.',
+                                          'Nachmittag: Ein Spaziergang entlang der Gölsen. Der Gölsentalradweg führt '
+                                          'hier vorbei und bietet flache, leicht begehbare Wege. Ideal für einen '
+                                          'kurzen Spaziergang mit Kind und Hund, um sich die Beine zu vertreten und '
+                                          'die ländliche Idylle zu genießen. Oder vielleicht entdecken Sie einen '
+                                          'kleinen Spielplatz in der Nähe, der nicht überlaufen ist.'],
+                   'summary': 'Zurück ins Gölsen-Tal, nicht weit von Lilienfeld, aber mit anderem Fokus: eine '
+                              'interessante Dorfkirche und erneute Flussfreuden.',
+                   'title': 'Tag 4: Gölsen-Tal-Zauber – Sakrale Anblicke und Flussgeflüster'},
+                 { 'day_number': 5,
+                   'points_of-interest': [ { 'id': 'POI-09',
+                                             'latitude': 48.05,
+                                             'longitude': 15.51,
+                                             'name': 'Parkplatz / Ausgangspunkt für Waldspaziergang (Hügel westlich '
+                                                     'Wilhelmsburg)'},
+                                           { 'id': 'POI-10',
+                                             'latitude': 48.07,
+                                             'longitude': 15.52,
+                                             'name': 'Aussichtspunkt über Wilhelmsburg/Traisental (Waldgebiet)'}],
+                   'route_description': [ 'Vormittag (Fahrzeit ~10-20 Min): Heute bleiben wir ganz nah dran. Die Hügel '
+                                          'und Wälder westlich und südwestlich von Wilhelmsburg bieten überraschend '
+                                          'viele Möglichkeiten. Fahren Sie Richtung Eschenau oder Traisen, aber biegen '
+                                          'Sie dann auf eine der kleineren Straßen ab, die in die Wälder oder zu '
+                                          'kleinen Weilern führen. Das Ziel ist, einen guten Startpunkt für einen '
+                                          'Spaziergang zu finden (POI-09).',
+                                          'Später Vormittag: Ein ausgedehnter (aber altersgerechter) Spaziergang im '
+                                          'Wald. Es gibt hier viele Forststraßen und markierte Wanderwege, die nicht '
+                                          'überlaufen sind. Der Geruch von Moos und Fichten, das Zwitschern der Vögel '
+                                          '– das ist Balsam für die Seele. Lassen Sie das Kind Stöcke sammeln und den '
+                                          'Hund Fährten lesen. Suchen Sie einen Punkt mit Aussicht über Wilhelmsburg '
+                                          'und das Traisental (POI-10) – es ist immer wieder interessant, die eigene '
+                                          'Heimat von oben zu sehen.',
+                                          'Mittagessen: Das ultimative lokale Picknick! Finden Sie den perfekten Fleck '
+                                          'auf einer Waldlichtung oder mit der gefundenen Aussicht. Packen Sie Ihre '
+                                          "Lieblingssachen ein. Nichts Kompliziertes, nur Gutes. 'Glück ist eine gute "
+                                          "Mahlzeit und ein bequemes Plätzchen zum Verdauen,' oder so ähnlich.",
+                                          'Nachmittag: Je nach Laune: Entweder den Spaziergang fortsetzen, eine andere '
+                                          'kleine Runde drehen oder einfach nur in der Sonne liegen (wenn sie '
+                                          'scheint!) und die Ruhe genießen. Da der Heimweg nur ein Katzensprung ist, '
+                                          'ist die Rückkehr flexibel. Beenden Sie den Tag entspannt, vielleicht mit '
+                                          'einem Eis oder Kaffee in Wilhelmsburg, aber mit dem Gefühl, die nähere '
+                                          'Umgebung neu entdeckt zu haben.'],
+                   'summary': 'Der letzte Ausflug führt uns gar nicht weit weg, sondern erkundet die unmittelbare '
+                              'Umgebung von Wilhelmsburg, die man oft übersieht, wenn man immer in die Ferne schweift. '
+                              'Natur pur, gleich ums Eck.',
+                   'title': 'Tag 5: Wilhelmsburgs Hinterland – Hügel, Wälder, Aussicht'}],
+  'title': 'Niederösterreichs Hinterhof-Schätze – Ausflüge rund um Wilhelmsburg'}

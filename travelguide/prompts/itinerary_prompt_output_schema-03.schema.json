@@ -1,0 +1,108 @@
+{
+  "type": "object",
+  "properties": {
+    "title": {
+      "type": "string",
+      "description": "The title of the travel itinerary."
+    },
+    "history_destination": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Narrative description of the destination's history."
+    },
+    "foreword_itinerary": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Introductory remarks about the itinerary and travel approach."
+    },
+    "itinerary": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "day_number": {
+            "type": "integer",
+            "description": "The day number of the itinerary."
+          },
+          "title": {
+            "type": "string",
+            "description": "The title or theme for the day."
+          },
+          "summary": {
+            "type": "string",
+            "description": "A short summary of the day's highlights."
+          },
+          "route_description": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Step-by-step narrative of the route and activities for the day."
+          },
+          "points_of_interest": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "description": "Unique identifier of the point of interest (POI)."
+                },
+                "name": {
+                  "type": "string",
+                  "description": "The name of the point of interest."
+                },
+                "latitude": {
+                  "type": "number",
+                  "description": "Latitude coordinate of the POI."
+                },
+                "longitude": {
+                  "type": "number",
+                  "description": "Longitude coordinate of the POI."
+                }
+              },
+              "required": ["id", "name", "latitude", "longitude"]
+            },
+            "description": "List of key points of interest for the day."
+          }
+        },
+        "required": ["day_number", "title", "summary", "route_description", "points_of_interest"]
+      },
+      "description": "List of itinerary days with detailed plans and POIs."
+    },
+    "hints_and_comments": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "Title of the hint or comment section."
+          },
+          "description": {
+            "type": "string",
+            "description": "Detailed advice or comment."
+          }
+        },
+        "required": ["title", "description"]
+      },
+      "description": "List of practical hints, comments, and advice for the journey."
+    },
+    "closing_remarks": {
+      "type": "string",
+      "description": "Closing statement to conclude the itinerary document."
+    }
+  },
+  "required": [
+    "title",
+    "history_destination",
+    "foreword_itinerary",
+    "itinerary",
+    "hints_and_comments",
+    "closing_remarks"
+  ]
+}

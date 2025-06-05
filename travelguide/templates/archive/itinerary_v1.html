@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>{{ itinerary.title }}</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+
+  .card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+
+  .card-title {
+    background-color: #a28bd4; /* Soft purple */
+    color: #ffffff;
+    padding: 12px 20px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .card-body {
+    padding: 15px 20px;
+  }
+
+  .section-paragraph {
+    color: #333333;
+    font-size: 15px;
+    margin-bottom: 12px;
+    line-height: 1.6;
+  }
+
+  .section-paragraph:last-child {
+    margin-bottom: 0;
+  }
+
+  .itinerary-description {
+    color: #4b3a75;
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+
+  .place {
+    margin-bottom: 12px;
+  }
+
+  .place:last-child {
+    margin-bottom: 0;
+  }
+
+  .place-title {
+    font-weight: bold;
+    font-size: 16px;
+    color: #4b3a75;
+  }
+
+  .place-time {
+    color: #777777;
+    font-size: 14px;
+    margin-left: 5px;
+  }
+
+  .place-description {
+    color: #333333;
+    font-size: 14px;
+  }
+</style>
+</head>
+<body>
+
+<!-- Itinerary Title -->
+<div class="card">
+  <div class="card-title">{-{ itinerary.title }-}</div>
+  <div class="card-body">
+    <div class="itinerary-description">{-{ itinerary.description }-}</div>
+  </div>
+</div>
+
+<!-- History of Destination -->
+<div class="card">
+  <div class="card-title">History</div>
+  <div class="card-body">
+    {% for paragraph in history_destination %}
+      <div class="section-paragraph">{{ paragraph }}</div>
+    {% endfor %}
+  </div>
+</div>
+
+<!-- Foreword -->
+<div class="card">
+  <div class="card-title">Foreword</div>
+  <div class="card-body">
+    {% for paragraph in foreword_itinerary %}
+      <div class="section-paragraph">{{ paragraph }}</div>
+    {% endfor %}
+  </div>
+</div>
+
+<!-- Day-by-day Itinerary -->
+{% for day in itinerary %}
+<div class="card">
+  <div class="card-title">{{ day.title }}</div>
+  <div class="card-body">
+
+    <!-- Day Description -->
+    <div class="subsection-title">Overview</div>
+    <div class="section-paragraph">{{ day.description }}</div>
+
+    <!-- Route Description -->
+    <div class="subsection-title">Route Description</div>
+    <div class="section-paragraph">{{ day.route_description }}</div>
+
+    <!-- Points of Interest -->
+    <div class="subsection-title">Points of Interest</div>
+    {% for poi in day.points_of_interest %}
+    <div class="poi">
+      <div class="poi-title">{{ poi.name }} <span class="place-time">[{{ poi.id }}]</span></div>
+      <div class="poi-coords">Lat: {{ poi.latitude }} | Lon: {{ poi.longitude }}</div>
+    </div>
+    {% endfor %}
+
+  </div>
+</div>
+    {% endfor %}
+
+  </div>
+</div>
+{% endfor %}
+
+
+
+</body>
+</html>

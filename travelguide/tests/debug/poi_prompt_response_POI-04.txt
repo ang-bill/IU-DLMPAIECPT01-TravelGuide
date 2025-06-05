@@ -1,0 +1,51 @@
+{ 'description': 'Nun, meine reiselustigen Freunde, wenn der Sinn euch nach etwas Urigem, ja geradezu Erdverbundenem '
+                 'steht, dann sind die Steinformationen bei Friedersbach genau das Richtige! Hier hat Mutter Natur '
+                 'selbst Hand angelegt und ein Felsentheater inszeniert, das seinesgleichen sucht. Es ist, als hätte '
+                 'ein Riese mit Kieselsteinen gespielt und dabei einige Exemplare von beachtlicher Größe verloren. '
+                 'Diese bizarren Gebilde, aus mächtigem Waldviertler Granit geformt, stehen stoisch in der Landschaft '
+                 'herum und erzählen stumme Geschichten aus einer Zeit, als unsereins noch nicht mal daran dachte, das '
+                 'Licht der Welt zu erblicken. Sie sind Zeugen geologischer Prozesse, die Millionen von Jahren in '
+                 'Anspruch nahmen – eine Ewigkeit, verglichen mit unseren kurzen Leben. Ein Spaziergang oder eine '
+                 'kleine Wanderung durch diese Felslandschaft ist wie ein Ausflug in die Vergangenheit, eine Begegnung '
+                 'mit den Urkräften der Erde. Es gibt diverse Wanderwege, die durch diese faszinierende Gegend führen '
+                 'und sich auch für einen Ausflug mit der Familie und dem vierbeinigen Freund eignen. Stellt euch vor, '
+                 'wie ihr inmitten dieser steinernen Giganten steht, die Fantasie beflügelt und euch fragt, welche '
+                 'Geheimnisse sie wohl bergen. Vergesst den Picknickkorb nicht, denn die Natur hat hier einige '
+                 'lauschige Plätzchen geschaffen, die geradezu darum betteln, für eine gemütliche Rast genutzt zu '
+                 'werden. Also packt Kind und Kegel, schnürt die Wanderschuhe und lasst euch von der stillen '
+                 'Erhabenheit dieser Steinformationen verzaubern!',
+  'did_you_know': [ 'Die Steinformationen bestehen hauptsächlich aus Waldviertler Granit.',
+                    'Manche Formationen tragen fantasievolle Namen aufgrund ihrer Form.',
+                    'Das Waldviertel ist bekannt für seine einzigartigen Gesteinsformationen wie Wackelsteine und '
+                    'Pilzsteine.',
+                    'Die Entstehung dieser Felsgebilde dauerte Millionen von Jahren durch Verwitterungsprozesse.',
+                    'Es gibt verschiedene Wanderwege, die speziell die Steinformationen erschließen.'],
+  'gps_lat': '48.6679',
+  'gps_lon': '15.1367',
+  'need_to_know': { 'accessibility': 'Wanderwege können uneben sein, teilweise schmale Pfade. Für Kinderwagen '
+                                     'eventuell schwierig.',
+                    'gastronomy_nearby': 'Lokale in Friedersbach oder den umliegenden Ortschaften.',
+                    'kid_dog_friendly': '✔️ Ja, Hunde an der Leine erlaubt. Kleinkinder in Rückentrage empfohlen.',
+                    'parking': 'Parkmöglichkeiten in der Nähe der Wanderwege.',
+                    'picnic_spots': 'Schöne Plätze in der Natur rund um die Formationen geeignet für ein Picknick.'},
+  'overview': { 'best_time': 'Ganzjährig begehbar, besonders reizvoll bei gutem Wetter.',
+                'duration': '1-2 Stunden',
+                'wc': 'Nicht direkt vor Ort, eventuell in nahegelegenen Gasthäusern.'},
+  'poi_id': 'POI-04',
+  'poi_name': 'Steinformationen Friedersbach (Stone Formations)',
+  'poi_type': 'Naturdenkmal',
+  'riddle_answers': [ 'Granitgestein',
+                      'Eine Steinformation',
+                      'Die Steinformationen',
+                      'Die Steinformationen',
+                      'Die Steinformationen'],
+  'riddles': [ 'Ich bin hart und alt, geformt von Wind und Kalt. Millionen Jahre steh ich hier, was bin ich, sag es '
+               'mir?',
+               'Ich rage auf aus moosigem Grund, zeige Formen, mal eckig, mal rund. Man nennt mich Stein, doch bin '
+               'nicht klein. Wer mich findet, wird staunen, fein. Was bin ich?',
+               'Wir sind eine stille Wächtergarde, stehen fest in der Erde. Mal sehen wir aus wie ein Tier, mal wie '
+               'ein Hut, komm und steh bei uns auf Hut. Was sind wir?',
+               'Ein Riese spielte hier einst sacht, hat Felsbrocken hergebracht. Nun liegen sie da, groß und schwer, '
+               'wer staunt darüber, kommt hierher. Was sind diese?',
+               'Ich bin ein Buch aus Stein geschrieben, die Erdgeschichte drin geblieben. Wer mich liest mit offenen '
+               'Augen, wird der Natur Wunder glauben. Was bin ich?']}

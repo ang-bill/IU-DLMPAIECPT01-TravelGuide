@@ -1,0 +1,43 @@
+{ 'description': 'Na, wenn das kein Ort ist, der die Neugier weckt! Das UnterWasserReich in Schrems, inmitten des '
+                 'Naturparks Hochmoor Schrems gelegen, ist so etwas wie eine Schatzkammer der Natur, die ihre '
+                 'Geheimnisse über Moore und Teiche preisgibt. Hier kann man auf spielerische und lehrreiche Weise in '
+                 'die faszinierende Welt unter der Wasseroberfläche eintauchen. Man wandelt durch einen Wassergarten, '
+                 'der zeigt, wie sich die Uferzonen eines Teiches entwickeln, bis hin zur Entstehung eines Moores. '
+                 'Überall gibt es was zu entdecken: heimische Fische in großen Aquarien, winzige Wasserbewohner unter '
+                 'dem Mikroskop – da staunt selbst der größte Landliebhaber. Und dann erst die Fischotter! Diese '
+                 'flinken Gesellen kann man in ihrem naturnahen Gehege beobachten, besonders spannend wird es bei den '
+                 'täglichen Schaufütterungen. Für die Kleinen gibt’s einen Abenteuerspielplatz und interaktive '
+                 'Stationen, die das Lernen zum Vergnügen machen. Wer hoch hinaus will, erklimmt die Himmelsleiter, '
+                 'eine 20 Meter hohe Aussichtsplattform, von der man einen herrlichen Blick über die Moorlandschaft '
+                 'hat. Kurzum, ein Besuch hier ist ein Eintauchen in eine Welt, die sonst verborgen bleibt, und das '
+                 'auf eine Art und Weise, die Jung und Alt gleichermaßen begeistert. Und keine Sorge wegen des '
+                 'Wetters, ein Teil der Ausstellung ist überdacht!',
+  'did_you_know': [ 'Das UnterWasserReich ist Teil des Naturparks Hochmoor Schrems, einem ehemaligen Torfstichgebiet.',
+                    'Die Himmelsleiter bietet einen Ausblick über die einzigartige Moorlandschaft.',
+                    'Im UnterWasserReich leben Fischotter in einem naturnahen Gehege.',
+                    'Es gibt tägliche Schaufütterungen der Fischotter und Mikroskop-Liveshows.',
+                    'Der Naturpark Hochmoor Schrems umfasst eine Fläche von 119 Hektar.'],
+  'gps_lat': '48.7608',
+  'gps_lon': '15.0718',
+  'need_to_know': { 'accessibility': 'Das gesamte Areal ist barrierefrei zugänglich.',
+                    'kid_dog_friendly': 'Für Kinder sehr gut geeignet, Hunde sind im UnterWasserReich NICHT erlaubt.',
+                    'parking': 'Großer Parkplatz vorhanden, Behindertenparkplatz ebenfalls',
+                    'picnic_spots': 'Café mit Terrasse vorhanden, eventuell im angrenzenden Naturpark'},
+  'overview': { 'best_time': 'Täglich geöffnet 10-17 Uhr während der Saison (März bis November)',
+                'duration': '2–3 Stunden',
+                'wc': 'Verfügbar, auch barrierefreie Toiletten'},
+  'poi_id': 'POI-05',
+  'poi_name': 'UnterWasserReich Naturpark Schrems',
+  'poi_type': 'Nature Park and Exhibition',
+  'riddle_answers': [ 'Die Himmelsleiter',
+                      'Der Fischotter',
+                      'Ein Wasserbewohner / Eine Wasserpflanze',
+                      'Das Mikroskop',
+                      'Das Moor'],
+  'riddles': [ 'Ich bin hoch, aber kein Baum, und biete Blick über den Moor-Traum. Was bin ich?',
+               "Ich wohne im Wasser, bin flink und grau, und fresse, was ich im Teich erschau'. Wer bin ich?",
+               'Ich bin klein und brauche Wasser sehr, im Moor gibt’s mich, und das nicht zu knapp, wer oder was bin '
+               'ich denn queer?',
+               "Ich zeige dir, was im Verborgenen schwimmt, ganz nah heran, damit man's bestimmt. Was bin ich?",
+               'Ich bin ein Boden, ganz nass und weich, entstanden über lange Zeit, ein Lebensraum, so ungleich. Was '
+               'bin ich?']}

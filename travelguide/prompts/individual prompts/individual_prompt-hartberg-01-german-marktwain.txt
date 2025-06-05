@@ -1,0 +1,27 @@
+destination_of_trip: Oststeiermark, Start von Lafnitz bei Hartberg, Steiermark
+
+duration_of_trip: 4 Tage
+
+overnight stay: Wir werden bei Freunden in Lafnitz bei Hartberg übernachten.
+
+details: Inkludiere in die Reise folgende Ziele: 
+* Keltendorf Kulm
+* Tierpark und Schloss Herberstein
+* Burg Neuhaus (nur von außen)
+* Stadt Hartberg mit Kirche und Karner
+* Pöllauberg
+* Stift Vorau
+Der Text zur Beschreibung der Geschichte soll drei mal so lang wie in der folgenden Vorlage sein.
+Inkludiere daher die dreifache Anzahl an Paragraphen wie in der Vorlage.
+
+preferences: Geschichte, gotische und romanische Architektur, Naturdenkmäler, landschaftlich reizvolle Routen, Picknicks in schöner Umgebung. Kaffeehäuser oder nette Lokale mit Sitzgelegenheit im Freien und gutbürgerlicher Küche.
+
+need: Wir sind eine Familie mit 2-jährigem Kind und einem großem Hund, daher sollten allzu lange Fahrten vermieden werden. Berücksichtige, dass das Tagesprogramm nicht zu lange sein soll. Wir wollen das Programm flexibel an das Wetter anpassen.
+
+context:  Überrasche uns mit einem abwechslungsreichen Programm, geeignet für Kind und Hund.
+
+tone: Mark Twain
+
+style: Fesselnder und klarer, prägnanter Schreibstil
+
+language: Deutsch - antworte in Deutsch, alle Texte sollen in Deutsch sein. Das ist wichtig.

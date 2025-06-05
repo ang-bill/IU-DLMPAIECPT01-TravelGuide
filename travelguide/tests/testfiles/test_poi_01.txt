@@ -1,0 +1,54 @@
+{ 'description': 'Now, folks, prepare your eyeballs for a dose of Waldviertelian wonder! The Hammerfall Waterfall '
+                 "isn't Niagara, mind you, but it possesses a rustic charm that'll tickle your fancy. Nestled amidst "
+                 "the dense forests of the region, it's a spot where water takes a dramatic plunge, proving that "
+                 'gravity is still very much in style. \n'
+                 '\n'
+                 'Getting there involves a bit of an adventure, best tackled with your trusty off-road chariot. Those '
+                 "Waldviertel roads can be a touch rambunctious, and you'll want the ground clearance to navigate "
+                 'them. Once parked, a short hike leads you to the falls, and remember to keep your eyes peeled - and '
+                 "your dog on a leash! The path is not always even, and we wouldn't want anyone taking an unexpected "
+                 'tumble. \n'
+                 '\n'
+                 'The waterfall itself is more than just a pretty sight. The rushing water, the cool spray, the sound '
+                 'of nature composing its own symphony – it all combines to create a sensory experience that’ll leave '
+                 'you feeling refreshed and invigorated. Find a suitable rock for a picnic (there are many), unfurl '
+                 "your blanket, and indulge in some delightful Waldviertel treats. While you're at it, let the kiddo "
+                 'splash in the shallow waters near the base of the fall (with close supervision, of course!).\n'
+                 '\n'
+                 'It’s a grand spot for a leisurely afternoon, a place where you can escape the hustle and bustle of '
+                 'modern life and connect with the raw, untamed beauty of the Waldviertel. And if the weather decides '
+                 'to throw a curveball, fear not! The surrounding forests offer shelter from light rain, and the '
+                 'waterfall is arguably even more impressive when swollen with fresh rainwater. So pack your bags, '
+                 'load up the family, and get ready for a Hammerfall adventure!',
+  'did_you_know': [ 'The Hammerfall is one of the highest waterfalls in Lower Austria.',
+                    'The surrounding forest is home to a variety of wildlife, including deer and various bird species.',
+                    'The water from the Hammerbach stream eventually flows into the Kamp river.',
+                    'The force of the water has carved interesting rock formations over centuries.',
+                    'Local legends say that the waterfall is guarded by a water spirit.'],
+  'gps_lat': '48.3269',
+  'gps_lon': '15.2492',
+  'need_to_know': { 'accessibility': 'Uneven terrain, not suitable for strollers or wheelchairs. Off-road vehicle '
+                                     'recommended for access.',
+                    'kid_dog_friendly': '✔️ Supervised kids and dogs allowed, but keep them on a leash due to '
+                                        'potentially slippery rocks and steep drops.',
+                    'parking': 'Limited parking available near the trailhead. Expect gravel roads.',
+                    'picnic_spots': 'Several scenic spots along the river and near the waterfall. Bring your own '
+                                    'blanket!'},
+  'overview': { 'best_time': 'Spring, after snowmelt or after rainfall for maximum flow',
+                'duration': '1–2 hours (depending on hiking)',
+                'wc': 'None directly at the waterfall'},
+  'poi_name': 'Hammerfall Waterfall',
+  'poi_type': 'Natural Monument',
+  'riddle_answers': [ "That's for you to discover!",
+                      'Likely beech or fir',
+                      'Hammerbach',
+                      'Keep your eyes peeled!',
+                      "Count them yourself - a true artist doesn't give away all the secrets!"],
+  'riddles': [ 'How many distinct cascades can you identify in the main waterfall?',
+               'What type of tree is most common in the forest surrounding the Hammerfall?',
+               'What is the name of the stream that feeds the Hammerfall?',
+               'Can you find any evidence of old mill works or human intervention along the stream?',
+               'How many shades of green can you see in the surrounding forest?'],
+  'wikimedia_urls': [ 'https://commons.wikimedia.org/wiki/File:Hammerbachfall_2022_01.jpg',
+                      'https://commons.wikimedia.org/wiki/File:Hammerbachfall_2022_06.jpg',
+                      'https://commons.wikimedia.org/wiki/File:Hammerbachfall_2022_03.jpg']}

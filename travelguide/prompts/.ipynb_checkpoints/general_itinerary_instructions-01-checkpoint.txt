@@ -1,0 +1,7 @@
+Propose a travel itinerary useful for a travel guide. Take into account following information and context:
+{{ individual_prompt }}
+
+Return the answer as Python dictionary in the same format as in the following example. Take into account: The keys in the Python dictionary are fixed. The length of the texts, such as descriptions should be similar to the example. The items in history_destination and foreword_itinerary should be adapted to the length of the planned trip (the example is for 3 days). Consider the alignment of the POI numbering in the text and in the Python dictionary in the points_of_interest for further processing. Provide up to 6 hints, comments, suggestions, or considerations specific to the given context and preference in the hints_and_comments section.
+
+Example:
+{{ itinerary_prompt_output_example }}

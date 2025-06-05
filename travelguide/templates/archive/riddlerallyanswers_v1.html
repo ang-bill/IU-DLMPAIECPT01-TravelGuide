@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Riddle Rally Answers</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+    h1, h2 {
+        color: #a28bd4;
+    }
+  .card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+
+  .card-title {
+    background-color: #a28bd4; /* Soft purple */
+    color: #ffffff;
+    padding: 12px 20px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .card-body {
+    padding: 15px 20px;
+  }
+
+  .subsection-title {
+    font-weight: bold;
+  }
+
+  .section-paragraph {
+    color: #333333;
+    font-size: 15px;
+    margin-bottom: 12px;
+    line-height: 1.6;
+  }
+
+  .section-paragraph:last-child {
+    margin-bottom: 0;
+  }
+
+  .itinerary-description {
+    color: #4b3a75;
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+
+  .place {
+    margin-bottom: 12px;
+  }
+
+  .place:last-child {
+    margin-bottom: 0;
+  }
+
+  .place-title {
+    font-weight: bold;
+    font-size: 16px;
+    color: #4b3a75;
+  }
+
+  .place-time {
+    color: #777777;
+    font-size: 14px;
+    margin-left: 5px;
+  }
+
+  .place-description {
+    color: #333333;
+    font-size: 14px;
+  }
+    .icon {
+        width: 40px;
+        height: 40px;
+        vertical-align: text-bottom;
+        margin-right: 6px;
+        fill: #a28bd4;
+    }
+</style>
+</head>
+<body>
+
+<!-- Title -->
+<h1>
+<svg  class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. --><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg><!-- magnifying-glass.svg -->
+Riddle Rally Answers
+</h1>
+
+{% for poi_ident, poi_data in all_riddle_answers.items() %}
+<h2>{{ poi_data.name }}</h2>
+<div class="riddle">
+    <ol>
+    {% for riddle in poi_data.riddle_answers %}
+        <li>{{ riddle }}</li>
+    {% endfor %}
+    </ol>
+</div>
+{% endfor %}
+
+</body>
+</html>

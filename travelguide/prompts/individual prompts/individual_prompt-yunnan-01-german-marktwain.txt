@@ -1,0 +1,36 @@
+destination_of_trip: Yunnan, Anreise mit dem Flugzeug von Wien, Reise mit 3 Kleinbussen und Fahrer
+
+duration_of_trip: 10 Tage
+
+overnight: Übernachtungen entlang der Route
+
+context: Wir sind eine Reisegruppe von 10 Personen gehobenen Alters und haben schon viele Individualreisen zu ausgefallenen Reisezielen wie die folgende Reise unternommen. Wir haben das folgende Reiseprogramm von der Reiseleitung bekommen und sind interessiert an Zusatzinformationen über Geschichte, Kultur, Land und Leute.
+
+need: Berücksichtige unser Alter und vermeide anstrengende, ausgedehnte Wanderungen. Spaziergänge sind jedoch möglich. Essen ist uns nicht wichtig, da wir in den Unterkünften Frühstück und Abendessen bekommen. Plane nur eine kurze Mittagspause mit Picknickmöglichkeit und idyllischer Aussicht ein. 
+
+preferences: Wir bevorzugen ein abwechslungsreiches Programm. Wir wollen Land und Leute in der gesamten Vielfalt kennenlernen. Wir mögen keine zeitgenössische Kunst.
+
+details: Gib uns Vorschläge für schöne Fotostops auf der Tour und ausgefallene Sehenswürdigkeiten. Gib uns außerdem Tipps, wo es Geschäfte gibt, um uns mit Proviant zu versorgen.
+
+Programm des Reiseveranstalters: 
+1. Tag: Anreise Wien Peking
+2. Tag: Peking - Kumming
+3. Tag: Kunming, der Steinwald und Jianshui
+4. Tag: Vom alten Jianshui zu den Reisterrassen von Yuanyan
+5. Tag: Reisterrassen von Yuanyang (Tagesausflug)
+6. Tag: Durch Südyunnans grünes Bergland bis Jinghong
+7. Tag: Xishuangbanna (Tagesausflug)
+8. Tag: Jinghong— Dali
+9. Tag: Dali am Erhai See und das Volk der Bai (Tagesausflug)
+10. Tag: Dali — Shaxi — Shangrila
+11. Tag: Shangri La (Zhongdian) (Tagesausflug)
+12. Tag: Shangri La — Tigersprungschlucht — Lijang
+13. Tag: Lijang (Tagesausflug)
+14. Tag: Lijang — Peking
+15. Tag: Peking - Wien
+
+tone: Mark Twain
+
+style: Fesselnder und klarer, prägnanter Schreibstil
+
+language: Deutsch - antworte in Deutsch, alle Texte sollen in Deutsch sein. Das ist wichtig.

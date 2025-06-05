@@ -1,0 +1,33 @@
+destination of trip: Bratislava
+
+duration of trip: 2 Tage
+
+arrival and departure: Abfahrt mit dem mit dem Twin City Liner am Dienstag um
+8:30 von Wien (1010 Wien, Schiffstation Wien City, Schwedenplatz),
+Boarding 8:00, Hauptdeck; Rückfahrt am Mittwoch um 18:30 von Bratislava (81102
+Bratislava, Ponton HUMA 6 Razusovo nabrezie), Bording 18:00, Captain's Lounge
+
+overnight: Botel Gracia (Razusovo Nabrezie, 81102 Bratislava, Slowakei),
+Doppelzimmer inklusive Frühstück
+
+details: Im Reiseführer soll enthalten sein, wie man vom Donauufer mit
+öffentlichen Verkehrsmitteln zur Ruine Devin und auf die Burg kommt.
+
+preferences: Historische Gebäude wie Kirche oder Burg. Spaziergang mit schöner
+Aussicht oder durch einen hübschen Park. Abwechslungsreiches Programm.
+
+need: Flexibilität für Wetterbedingungen, Lokal mit gutbürgerlicher Küche für
+Mittagessen oder Abendessen, Lokal sollte gute Kritiken haben und eventuell
+eine Sitzgelegenheit im Freien bieten. Schlage auch gute Kaffeehäuser vor.
+
+context: Wir sind ein Ehepaar, beide pensioniert. Berücksichtige unser Alter,
+obwohl wir rüstig sind, sollten dennoch ausgedehnte Fußmärsche und allzu viele Stiegen
+vermieden werden. Berücksichtige, dass wir schon 1 Tag in Bratislava waren, daher
+haben wir schon einen Gesamtüberblick über die Stadt.
+
+tone: Hemmingway
+
+style: Klarer, prägnanter Schreibstil
+
+language: Deutsch - antworte in deutscher Sprache, alle Texte in der
+Rückmeldung sollen immer in deutsch sein. Das ist wichtig.

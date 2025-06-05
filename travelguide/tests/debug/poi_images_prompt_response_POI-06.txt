@@ -1,0 +1,3 @@
+{ 'wikimedia_urls': [ 'https://commons.wikimedia.org/wiki/File:Altes_Rathaus_am_Hauptplatz_von_Gm%C3%BCnd_W_2016-07.jpg',
+                      'https://commons.wikimedia.org/wiki/File:Gm%C3%BCnd,_Stadtplatz_-_Sgraffito-Haus_Nr._31_-_Gnadenstuhl.jpg',
+                      'https://commons.wikimedia.org/wiki/File:Gm%C3%BCnd_Stadtplatz_31.jpg']}

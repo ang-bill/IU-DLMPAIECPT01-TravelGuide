@@ -1,0 +1,7 @@
+Propose a travel itinerary useful for a travel guide. Take into account following information and context:
+{{ individual_prompt }}
+
+Return the answer as valid JSON in the same format as in the following example. Take care that the JSON is valid, i.e. do not use double inverted commas in the text. Take into account: The keys in the JSON are fixed. The length of the texts, such as descriptions should be similar to the example, but the language of the text should be as mentioned earlier. The items in history_destination and foreword_itinerary should be adapted to the length of the planned trip (the example is for 3 days). Consider the alignment of the POI numbering in the text and in the JSON in the points_of_interest for further processing. Provide for each day (according to the duration of the trip) a route and provide for each day 2 to 4 POIs. Use unique POI-numbers within the itinerary. Provide up to 6 hints, comments, suggestions, or considerations specific to the given context and preference in the hints_and_comments section.
+
+Example:
+{{ itinerary_prompt_output_example }}

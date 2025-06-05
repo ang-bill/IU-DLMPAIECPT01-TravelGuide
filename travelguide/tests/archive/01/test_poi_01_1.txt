@@ -1,0 +1,56 @@
+{ 'description': "Now, folks, if you're meandering through the Waldviertel and your trusty off-road steed is itching "
+                 'for a pause, point its nose towards Altenburg Abbey. Forget those perfectly manicured tourist traps '
+                 "you've already seen – this place is like a baroque fireworks display hidden behind a rather "
+                 "unassuming facade. It's a Benedictine monastery, mind you, but don’t expect austere monks chanting "
+                 'in dim light. Think more along the lines of angels wrestling with cherubs on the ceiling while '
+                 'sporting the latest in gilded drapery. \n'
+                 '\n'
+                 'The library, ah, the library! It’s a veritable treasure trove, a place where knowledge seems to '
+                 'float in the air, illuminated by the golden glow filtering through the windows. But hold your '
+                 "horses, the real kicker is the crypt. Now, I've seen a few crypts in my time, but this one’s a "
+                 'genuine spectacle. It’s all about skeletons, you see, but in a playful, almost whimsical sort of way '
+                 '– death with a wink, if you will. The kids will love it (maybe… or maybe not). After your '
+                 'subterranean adventures, stretch your legs in the sprawling gardens. Perfect for a picnic and the '
+                 'dog to stretch its legs. And if the Waldviertel weather decides to get up to its usual tricks, you '
+                 'can always retreat inside the abbey and explore more of its historic rooms. A perfect escape on your '
+                 'family trip through Lower Austria!',
+  'did_you_know': [ "The Abbey's crypt is known as the 'skeleton crypt' because of its unusual decoration featuring "
+                    'skeletons.',
+                    'Stift Altenburg was completely rebuilt in the Baroque style after being heavily damaged during '
+                    "the Thirty Years' War.",
+                    'The abbey is still active and houses a community of Benedictine monks.',
+                    'The ceiling frescoes in the library are by Paul Troger, one of the most important Austrian '
+                    'Baroque painters.',
+                    'The herb garden in the abbey grounds features a wide variety of medicinal and culinary plants.'],
+  'gps_lat': '48.6561',
+  'gps_lon': '15.4475',
+  'need_to_know': { 'accessibility': 'Limited accessibility for wheelchairs due to steps in certain areas. Check in '
+                                     'advance for accessible tour options.',
+                    'flexibility': 'The abbey offers both indoor tours (historical rooms, library, crypt) and outdoor '
+                                   'gardens, providing flexibility depending on weather conditions.',
+                    'kid_dog_friendly': 'Dogs are generally not allowed inside the abbey buildings but are welcome in '
+                                        'the gardens on a leash. Baby carriers recommended for navigating the abbey.',
+                    'off_road': 'The abbey is easily accessible by regular roads; no off-road driving is required. The '
+                                'nearby countryside offers opportunities for scenic drives with an off-road vehicle.',
+                    'parking': 'Ample free parking available on site.',
+                    'picnic_spots': 'Extensive gardens offer numerous scenic spots for picnics. Consider the area near '
+                                    'the herb garden or the ponds.'},
+  'overview': { 'best_time': 'Late morning/early afternoon to avoid coach tour rushes and catch the best light in the '
+                             'gardens.',
+                'duration': '2-3 hours (allow extra time for gardens)',
+                'wc': 'Available inside the abbey complex.'},
+  'poi_name': 'Stift Altenburg',
+  'poi_type': 'Baroque Abbey',
+  'riddle_answers': [ 'A lute or a similar stringed instrument.',
+                      'Three domes.',
+                      'Yes, one of the skeletons is depicted holding an hourglass.',
+                      'White and gold.',
+                      'Three.'],
+  'riddles': [ 'In the library, find the angel playing a musical instrument – which one is it?',
+               'How many domes are visible from the main courtyard of Stift Altenburg?',
+               'Look closely at the skeleton crypt - can you find a skeleton holding an hourglass?',
+               "What is the predominant color scheme in the abbey's main church?",
+               'If you count all ponds in the garden - how many can you find?'],
+  'wikimedia_urls': [ 'https://commons.wikimedia.org/wiki/File:Kath._Pfarrkirche_hl._Martin_in_Sankt_Martin_-_Altar.jpg',
+                      'https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Altenburg_Stift_Bibliothek_Detail_01.jpg/1280px-Altenburg_Stift_Bibliothek_Detail_01.jpg',
+                      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Stift_Altenburg_Krypta_01.jpg/1280px-Stift_Altenburg_Krypta_01.jpg']}

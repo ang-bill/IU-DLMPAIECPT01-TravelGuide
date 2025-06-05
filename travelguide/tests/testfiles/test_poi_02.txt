@@ -1,0 +1,47 @@
+{ 'description': 'Nach einem Tag in Bratislava, bietet sich ein Ausflug in die Umgebung an. Die Burgruine Lichtenegg, '
+                 'thront hoch oben über dem gleichnamigen Ort im Bezirk Wiener Neustadt-Land, Niederösterreich. Um '
+                 'dorthin zu gelangen, nehmen Sie am besten öffentliche Verkehrsmittel. Von Bratislava aus fahren Sie '
+                 'mit dem Bus nach Wolfsthal. Von dort aus, je nach Busverbindung, steigen Sie um nach Lichtenegg. Die '
+                 'Busverbindungen sind nicht sehr häufig, daher ist eine sorgfältige Planung im Voraus unerlässlich. '
+                 'Alternativ könnten Sie auch ein Taxi von Wolfsthal nach Lichtenegg in Betracht ziehen. Die Burg '
+                 'selbst ist eine Reise in die Vergangenheit. Zwar sind die Mauern gezeichnet vom Zahn der Zeit, doch '
+                 'die Aussicht von oben ist atemberaubend. Die Ruine erlaubt einen weiten Blick über das Umland und '
+                 'das Rosaliengebirge. Der Aufstieg zur Burgruine erfolgt über einen teils steilen, unbefestigten Weg. '
+                 'Festes Schuhwerk ist daher unerlässlich. Einige Stufen sind ebenfalls zu bewältigen. Oben '
+                 'angekommen, belohnt die Stille und der Panoramablick die Anstrengung. Nach der Besichtigung der '
+                 'Burgruine empfiehlt sich ein Mittagessen im Gasthof im Ort Lichtenegg. Erkundigen Sie sich jedoch im '
+                 'Voraus nach den Öffnungszeiten. Die Ruine ist nicht nur ein historischer Ort, sondern auch ein Ort '
+                 'der Ruhe und Besinnung – ideal für ein rüstiges Ehepaar, das dem Trubel der Stadt entfliehen möchte.',
+  'did_you_know': [ 'Die Burg Lichtenegg wurde erstmals im 12. Jahrhundert urkundlich erwähnt.',
+                    'Im 15. Jahrhundert wurde die Burg während der Hussitenkriege schwer beschädigt.',
+                    'Die Burg wechselte im Laufe der Jahrhunderte mehrfach den Besitzer.',
+                    'Die Burgruine ist heute ein beliebtes Ausflugsziel für Wanderer und Geschichtsinteressierte.',
+                    'Von der Burg aus hat man einen herrlichen Blick auf das Rosaliengebirge.'],
+  'gps_lat': '48.3408',
+  'gps_lon': '15.2419',
+  'need_to_know': { 'accessibility': 'Der Weg zur Ruine ist teilweise steil und uneben. Festes Schuhwerk ist '
+                                     'erforderlich. Einige Stufen sind vorhanden.',
+                    'food_drink': 'Gasthof im Ort Lichtenegg. Vorher informieren, ob geöffnet.',
+                    'kid_dog_friendly': 'Eingeschränkt. Hunde sind an der Leine zu führen. Für kleine Kinder ist der '
+                                        'Weg möglicherweise schwierig.',
+                    'public_transport': 'Busverbindungen von Bratislava nach Wolfsthal und weiter nach Lichtenegg sind '
+                                        'verfügbar, aber die Frequenz ist gering. Bitte Fahrpläne prüfen (z.B. über '
+                                        'Slovak Lines oder ÖBB).'},
+  'overview': { 'best_time': 'Vormittag oder Nachmittag bei gutem Wetter für beste Aussicht',
+                'duration': '2-3 Stunden (inkl. Anreise von Bratislava)',
+                'wc': 'Nicht direkt an der Burgruine vorhanden. Eventuell im Ort Lichtenegg.'},
+  'poi_name': 'Burgruine Lichtenegg (Castle Ruin)',
+  'poi_type': 'Castle Ruin',
+  'riddle_answers': [ 'Die Liechtenstein',
+                      'Hauptsächlich Stein',
+                      'Das ist abhängig vom Zustand der Ruine und Beobachtungsgabe des Besuchers',
+                      'Generell Richtung Osten, je nach Position auf der Ruine',
+                      'Möglicherweise, aber nicht unbedingt sichtbar oder zugänglich'],
+  'riddles': [ 'Welches Adelsgeschlecht war besonders lange im Besitz der Burg?',
+               'Welches Baumaterial dominiert beim Bau der Burg?',
+               'Wie viele Ecktürme lassen sich noch erkennen?',
+               'In welche Himmelsrichtung hat man den besten Ausblick?',
+               'Gibt es einen Brunnen auf dem Burggelände?'],
+  'wikimedia_urls': [ 'https://commons.wikimedia.org/wiki/File:Friedhofskapelle_Lichtenegg_-_sign.jpg',
+                      'https://commons.wikimedia.org/wiki/File:View_of_Lichtenegg_from_Wieden.jpg',
+                      'https://commons.wikimedia.org/wiki/File:AUT_Lichtenegg_COA.jpg']}

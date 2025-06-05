@@ -1,0 +1,14 @@
+Your task is providing URLs to images of tourist attractions useful for a travel guide. 
+
+#Take into account following information and context:
+{{ poi_ident }}
+
+##Context:
+{{ individual_prompt }}
+
+#Instructions:
+Select 3 pictures from Wikimedia, one should give an overall impression of the point of interest, the others should be on distinct interesting details. Alternatively provide images of one exterior view, one interior view, and one detail. The image should really exist, i.e. no message on website like "No file by this name exists.". Additionally, the images need to be published with a license suitable for free commercial use, such as CC BY-SA 4.0. Provide metadata for the use of APA 7 figure note citations below the images.
+Do a final check if the JSON is valid as it is processed with Python json.loads(): Check if all keys and string values are enclosed in double quotes. Single quotes may be used inside string values if needed.
+
+#Example:
+{{ poi_prompt_images_output_example }}

@@ -1,0 +1,21 @@
+
+
+destination_of_trip: Waldviertel, Start von Wilhelmsburg, Niederösterreich
+
+duration_of_trip: 3 Tage
+
+overnight: Wir wollen in unserem Geländewagen an abgelegenen Orten übernachten. Alternativ sind auch Wohnwagen-Stellplätze möglich, aber wir wollen keine Campingplätze.
+
+details: Inkludiere in der Reise das Stift Zwettl und Friedersbach
+
+preferences: Geschichte, gotische und romanische Architektur, Naturdenkmäler, landschaftlich reizvolle Routen, Picknicks in schöner Umgebung. Kaffeehäuser oder nette Lokale mit Sitzgelegenheit im Freien und gutbürgerlicher Küche.
+
+need: Wir sind eine Familie mit 2-jährigem Kind und einem großem Hund, daher sollten allzu lange Fahrten vermieden werden. Berücksichtige, dass das Tagesprogramm nicht zu lange sein soll. Wir wollen das Programm flexibel an das Wetter anpassen.
+
+context:  Berücksichtige, dass wir wohnen und daher die üblichen touristischen Punkte kennen. Überrasche uns mit einem abwechslungsreichen Programm, geeignet für Kind und Hund.
+
+tone: Mark Twain
+
+style: Fesselnder und klarer, prägnanter Schreibstil
+
+language: Deutsch - antworte in Deutsch, alle Texte sollen in Deutsch sein. Das ist wichtig.

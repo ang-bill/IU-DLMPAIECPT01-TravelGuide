@@ -1,0 +1,58 @@
+{ 'description': 'Nun, meine lieben Reisefreunde, wenn Sie denken, alte Steinhaufen hätten nichts zu erzählen, dann '
+                 'haben Sie die Burgruine Lichtenegg noch nicht mit den richtigen Augen betrachtet! Dieser Ort ist wie '
+                 'ein altes Buch, dessen Seiten vom Wind umgeblättert wurden, aber die Tinte der Geschichte ist noch '
+                 'nicht verblasst. Im Mürztal auf einem Hügel thronend, lädt diese mittelalterliche Ruine zu einer '
+                 'wahrhaft vergnüglichen Zeitreise ein. Stellen Sie sich vor, wie hier einst Ritter in ihren '
+                 'klappernden Rüstungen umherzogen und Burgfräulein aus den Fenstern spähten – auch wenn von Letzterem '
+                 'heute nicht mehr viel übrig ist, die Fantasie kann hier prächtig spazieren gehen, fast so frei wie '
+                 'Ihr Vierbeiner (solange er an der Leine bleibt, versteht sich!).\n'
+                 '\n'
+                 'Die Geschichte der Burg reicht bis ins späte 13. Jahrhundert zurück, so um 1280 herum, als hier wohl '
+                 'zunächst ein einfacher Hof stand, der später befestigt wurde. Die alten Mauern, die Reste des '
+                 'Wohnhauses und vor allem der imposante Bergfried zeugen noch heute von längst vergangenen Zeiten und '
+                 'der einstmals ritterlichen Herrlichkeit. Der Aufstieg mag ein kleines Abenteuer sein, besonders mit '
+                 'einem kleinen Steppke und einem großen Hund im Schlepptau. Aber keine Sorge, es gibt nicht nur die '
+                 'Stufen direkt hinter dem Bahnhof, sondern auch einen bequemeren Forstweg durch den Scheibsgraben. '
+                 'Oben angekommen, werden Sie mit einem herrlichen Rundblick über das Mürztal belohnt, der jede '
+                 'Anstrengung vergessen lässt. Es ist ein perfekter Ort, um die Seele baumeln zu lassen, die Reste der '
+                 'alten Gemäuer zu erkunden und sich vorzustellen, wie das Leben hier wohl vor Jahrhunderten aussah. '
+                 'Für den kleinen Hunger oder Durst nach der Entdeckungstour gibt es sogar eine zünftige Burgschenke, '
+                 'wo man bei einer Jause die Eindrücke sacken lassen kann. Packen Sie Ihren Picknickkorb ein, suchen '
+                 'Sie sich ein schönes Plätzchen mit Aussicht – und lassen Sie die alte Burg ihre Geschichten '
+                 'erzählen. Es ist ein Erlebnis, das der ganzen Familie, inklusive des vierbeinigen Mitglieds, Freude '
+                 'bereiten wird, ohne dass der Tag gleich zur ausgedehnten Expedition ausartet.',
+  'did_you_know': [ 'Die Burgruine Lichtenegg ist ein Wahrzeichen der Gemeinde St. Barbara im Mürztal.',
+                    'Ihre Geschichte reicht bis etwa in das Jahr 1280 zurück.',
+                    'Im Jahr 1792 durften Bewohner des abgebrannten Bruck an der Mur Baumaterial von der Burg holen, '
+                    'was zu ihrem weiteren Verfall beitrug.',
+                    'Seit 1934 steht die Burgruine Lichtenegg unter Denkmalschutz.',
+                    'Ein Verein kümmert sich seit 1929 um den Erhalt der Ruine, die sich seit 1979 in dessen Besitz '
+                    'befindet.'],
+  'gps_lat': '48.3408',
+  'gps_lon': '15.2419',
+  'need_to_know': { 'accessibility': 'Zugang über Treppe oder Forstweg möglich. Der Forstweg ist mit Kleinkind und '
+                                     'Hund wahrscheinlich besser geeignet. Der Turm hat viele Stufen.',
+                    'gastronomy_nearby': 'Burgschenke bei der Ruine (Öffnungszeiten prüfen) und Gasthöfe in der Nähe.',
+                    'kid_dog_friendly': '✔️ Ja, ein beliebtes Ausflugsziel für die ganze Familie. Hunde sind '
+                                        'willkommen, bitte an der Leine führen.',
+                    'parking': 'Wanderparkplätze vorhanden, teils kostenfrei.',
+                    'picnic_spots': 'Es gibt sicherlich schöne Plätze in der Umgebung mit Aussicht, ideal für ein '
+                                    'Picknick im Grünen. Eine Burgschenke ist ebenfalls vorhanden.'},
+  'overview': { 'best_time': 'Später Vormittag oder Nachmittag',
+                'duration': '1 - 1.5 Stunden (reine Besichtigung)',
+                'wc': 'Informationen begrenzt, ggf. vor Ort prüfen oder nahegelegene Gastronomie nutzen.'},
+  'poi_id': 'POI-02',
+  'poi_name': 'Burgruine Lichtenegg',
+  'poi_type': 'Burial Site',
+  'riddle_answers': [ 'Die Burgruine Lichtenegg',
+                      'Bauern',
+                      'Bruck an der Mur',
+                      'Die Burgschenke',
+                      'Der Aussichtsturm (Bergfried)'],
+  'riddles': [ 'Ich stehe auf einem Hügel und blicke weit ins Tal. Meine Mauern sind alt, meine Geschichte eine Qual. '
+               'Wer bin ich?',
+               'Die erste Familie, die hier residierte, war nicht vom Adel. Welchen Beruf hatten sie ursprünglich?',
+               'Nach einem großen Brand in einer Stadt in der Nähe, wurde ich als Steinbruch benutzt. Welche Stadt war '
+               'das?',
+               'Was kann man in meiner Mitte finden, wo man sich nach der Erkundung stärken kann?',
+               'Man kann mich erklimmen und hat von oben eine herrliche Sicht. Was bin ich an der Ruine?']}

@@ -1,0 +1,3 @@
+{ 'wikimedia_urls': [ {'url': 'https://commons.wikimedia.org/wiki/File:Burgruine_Lichtenegg_2013.jpg'},
+                      {'url': 'https://commons.wikimedia.org/wiki/File:Burgruine_Lichtenegg_-_Mauern.jpg'},
+                      {'url': 'https://commons.wikimedia.org/wiki/File:Burgruine_Lichtenegg_-_Inneres.jpg'}]}

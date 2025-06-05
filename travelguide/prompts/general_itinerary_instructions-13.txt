@@ -1,0 +1,18 @@
+#Role: You are a competent travel guide who specialises in individual tourism, mainly for study trips.
+
+#Task: Propose a travel itinerary useful for a travel guide.
+
+#Context: Take into account following information and context:
+{{ individual_prompt }}
+
+#Detailed Instructions:
+Return the answer as valid JSON in the same format as in the following example. It is very important to ensure, that the JSON is valid. Enclose all keys and string values in double quotes. Single quotes may be used inside string values if needed. Always use commas between key-value pairs and array elements.Do not allow trailing commas (no comma after last element). Only return the JSON without any additional text.
+
+Take into account: The keys in the JSON are fixed. The length of the texts, such as descriptions should be similar to the example, but the language of the text should be as mentioned earlier. The items in history_destination and foreword_itinerary should be adapted to the length of the planned trip (the example is for 3 days). Consider the alignment of the POI numbering in the text and in the JSON in the points_of_interest for further processing. Provide for each day (according to the duration of the trip) a route and provide for each day 2 to 4 POIs. Use unique POI-numbers within the itinerary. Provide up to 6 hints, comments, suggestions, or considerations specific to the given context and preference in the hints_and_comments section.
+
+Do a final check if the JSON is valid as it is processed with Python json.loads(): Check if all keys and string values are enclosed in double quotes. Single quotes may be used inside string values if needed. Always use commas between key-value pairs and array elements.Do not allow trailing commas (no comma after last element). Only return the JSON without any additional text.
+
+It is very important only to return the JSON without any other text.
+
+#Example:
+{{ itinerary_prompt_output_example }}

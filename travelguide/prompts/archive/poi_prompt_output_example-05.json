@@ -1,0 +1,121 @@
+{
+  "poi_id": "POI-01"
+  "poi_name": "Pfarrkirche St. Martin im Waldviertel",
+  "poi_type": "Historic Church",
+  "gps_lon": "14.83901",
+  "gps_lat": "48.66438",
+  "overview": {
+    "duration": "30–45 min",
+    "best_time": "Morning, for sunlit façade",
+    "wc": "In nearby community center (100m)"
+  },
+  "need_to_know": {
+    "parking": "Free on-street",
+    "accessibility": "Steps at entrance (no ramp)",
+    "kid_dog_friendly": "✔️ Yes",
+    "picnic_spots": "Churchyard benches"
+  },
+  "description": "Standing firm on its rocky perch for nearly 900 years, Pfarrkirche St. Martin is less a building and more a chronicle written in stone. Originally a Romanesque choir tower church...",
+  "did_you_know": [
+    "The church’s tower once had a steep spandrel roof typical of Romanesque design.",
+    "It was likely founded by Hadmar II of Kuenring in 1217."
+  ],
+  "riddles": [
+    "Find the Romanesque twin window — how many openings remain unsealed?",
+    "Which saint flanks St. Martin at the altar on the left side?"
+  ],
+  "riddle_answers": [
+    "2",
+    "Maybe Saint Florian"
+  ]
+}
+
+## JSON Schema:
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Point of Interest (POI)",
+  "type": "object",
+  "required": ["poi_id", "poi_name", "poi_type", "gps_lon", "gps_lat", "overview", "need_to_know", "description"],
+  "properties": {
+    "poi_id": {
+      "type": "string",
+      "description": "Unique identifier for the point of interest."
+    },
+    "poi_name": {
+      "type": "string",
+      "description": "Official name of the point of interest."
+    },
+    "poi_type": {
+      "type": "string",
+      "description": "Category or type of the point of interest (e.g., Historic Church, Museum)."
+    },
+    "gps_lon": {
+      "type": "string",
+      "pattern": "^-?\\d{1,3}\\.\\d+$",
+      "description": "Longitude in decimal degrees (as string)."
+    },
+    "gps_lat": {
+      "type": "string",
+      "pattern": "^-?\\d{1,2}\\.\\d+$",
+      "description": "Latitude in decimal degrees (as string)."
+    },
+    "overview": {
+      "type": "object",
+      "description": "General visiting information.",
+      "properties": {
+        "duration": {
+          "type": "string",
+          "description": "Typical visit duration."
+        },
+        "best_time": {
+          "type": "string",
+          "description": "Suggested best time to visit."
+        },
+        "wc": {
+          "type": "string",
+          "description": "Information about nearby toilets."
+        }
+      },
+      "additionalProperties": false
+    },
+    "need_to_know": {
+      "type": "object",
+      "description": "Practical information as key-value pairs (e.g., parking, accessibility, etc.).",
+      "additionalProperties": {
+        "type": "string"
+      }
+    },
+    "description": {
+      "type": "string",
+      "description": "Descriptive text about the POI."
+    },
+    "did_you_know": {
+      "type": "array",
+      "description": "Interesting facts about the POI.",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "maxItems": 3
+    },
+    "riddles": {
+      "type": "array",
+      "description": "Quiz-style questions for the POI.",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "maxItems": 5
+    },
+    "riddle_answers": {
+      "type": "array",
+      "description": "Answers to the riddles.",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "maxItems": 5
+    }
+  },
+  "additionalProperties": false
+}

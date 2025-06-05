@@ -1,0 +1,60 @@
+{
+  "title": "Point of Interest (POI)",
+  "type": "object",
+  "required": ["poi_id", "poi_name", "poi_type", "gps_lon", "gps_lat", "overview", "need_to_know", "description"],
+  "properties": {
+    "poi_id": {
+      "type": "string"
+    },
+    "poi_name": {
+      "type": "string"
+    },
+    "poi_type": {
+      "type": "string"
+    },
+    "gps_lon": {
+      "type": "string"
+    },
+    "gps_lat": {
+      "type": "string"
+    },
+    "overview": {
+      "type": "object",
+      "properties": {
+        "duration": {
+          "type": "string"
+        },
+        "best_time": {
+          "type": "string"
+        },
+        "wc": {
+          "type": "string"
+        }
+      }
+    },
+    "need_to_know": {
+      "type": "object",
+      "properties": {
+        "parking": { "type": "string" },
+        "accessibility": { "type": "string" },
+        "kid_dog_friendly": { "type": "string" },
+        "picnic_spots": { "type": "string" }
+      }
+    },
+    "description": {
+      "type": "string"
+    },
+    "did_you_know": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "riddles": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "riddle_answers": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

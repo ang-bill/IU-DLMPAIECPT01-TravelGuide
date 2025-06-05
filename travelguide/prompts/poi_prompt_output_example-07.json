@@ -1,0 +1,34 @@
+{
+  "poi_id": "POI-01"
+  "poi_name": "Pfarrkirche St. Martin im Waldviertel",
+  "poi_type": "Historic Church",
+  "gps_lon": "14.83901",
+  "gps_lat": "48.66438",
+  "overview": {
+    "duration": "30–45 min",
+    "best_time": "Morning, for sunlit façade",
+    "wc": "In nearby community center (100m)"
+  },
+  "need_to_know": {
+    "parking": "Free on-street",
+    "accessibility": "Steps at entrance (no ramp)",
+    "kid_dog_friendly": "✔️ Yes",
+    "picnic_spots": "Churchyard benches"
+  },
+  "description": ["Well now, let me tell you the tale of the Pfarrkirche St. Martin in the Waldviertel—a church so old it makes the hills around it look like sassy upstarts. They say it was first put together sometime around the 12th century, back when folks still thought bathing was suspicious and cathedrals were as much about scaring sin out of your soul as they were about praising the Lord. St. Martin, bless his cloak-cutting heart, got the dedication, and the locals set to stacking stones in his name with a diligence usually reserved for stacking firewood before a long Austrian winter.",
+  "Time marched on, as it’s wont to do, and the church endured all manner of mischief. It saw plagues shuffle through the village like unwanted houseguests, and wars blow by like thunderstorms—loud, angry, and full of trouble. The building itself wore the centuries like a patchwork coat. Gothic flourishes showed up here and there like fancy lace on an old farmer’s shirt, and then the Baroque folks came along, waving their paintbrushes and plastering cherubs wherever there was a flat surface. By the time the 18th century hit, the poor church looked like it had attended every style party in Christendom and refused to throw anything away.",
+  "Nowadays, St. Martin stands quiet and solid, nestled among the granite hills of the Waldviertel, a proper Austrian mix of solemnity and stubbornness. Tourists come and squint at the frescoes, perhaps wondering if the saints up there are smiling or smirking. The locals still file in on Sundays, as they’ve done for generations, nodding to the same old pews and whispering the same old prayers. And if you listen close, when the wind catches the tower just right, you might hear the murmur of history—though it might just be the bells, or maybe it’s St. Martin himself, chuckling about the time they tried to replace the roof with good intentions and ran out of nails."
+  ]
+  "did_you_know": [
+    "The church’s tower once had a steep spandrel roof typical of Romanesque design.",
+    "It was likely founded by Hadmar II of Kuenring in 1217."
+  ],
+  "riddles": [
+    "Find the Romanesque twin window — how many openings remain unsealed?",
+    "Which saint flanks St. Martin at the altar on the left side?"
+  ],
+  "riddle_answers": [
+    "2",
+    "Maybe Saint Florian"
+  ]
+}

@@ -1,0 +1,21 @@
+
+
+destination_of_trip: Waldviertel, starting from Wilhelmsburg, Lower Austria
+
+duration_of_trip: 3 days
+
+overnight: stay in our off-road car on remote locations
+
+details: Include in the trip Stift Zwettl and Friedersbach
+
+preferences: History, Gothic and Romanesque architecture, natural monuments, scenic routes, picnics in nice surroundings.
+
+need: Flexibility for weather conditions, off-road car for overnight stay with family and big dog
+
+context: Family trip with 2-year-old kid and big dog, avoid long trips. Take into account, that we already have been there, so we already know the usual tourist points.
+
+tone: Hemmingway
+
+style: Engaging and clear, precise writing style
+
+language: German - answer in german language, all responses need to be German. This is important.

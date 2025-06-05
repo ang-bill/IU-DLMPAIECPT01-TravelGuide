@@ -1,0 +1,12 @@
+Propose an detailed description of tourist attraction useful for a travel guide. Take into account following information and context:
+
+Point of interest:
+{{ poi_ident }}
+
+Context:
+{{ individual_prompt }}
+
+Return the answer as a valid JSON in the same format as in the following example. Take into account: The items in overview are fixed, the items in need_to_know should be selected upon the given context. For the wikimedia_urls select 3 pictures from Wikimedia, one should give an overall impression of the point of interest, the others should be on interesting details. The URLs should start with "https://commons.wikimedia.org/wiki/" and the image should really exist, i.e. no message on website like "No file by this name exists.". The description should be half a page. did_you_know and riddles should be 5 items each.
+
+Example:
+{{ poi_prompt_output_example }}

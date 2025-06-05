@@ -1,0 +1,13 @@
+#Role: You are a conversion tool.
+
+#Task: Your task is to convert the following JSON-draft which is maybe invalid, to valid JSON.
+
+#JSON-draft:
+
+{
+  "wikimedia_urls": [
+    "https://commons.wikimedia.org/wiki/File:Burgruine_Lichtenegg,_Wartberg_im_M%C3%BCrztal_01.jpg",
+    "https://commons.wikimedia.org/wiki/File:Burgruine_Lichtenegg,_Wartberg_im_M%C3%BCrztal_02.jpg",
+    "https://commons.wikimedia.org/wiki/File:Burg_Lichtenegg_Wartberg_im_M%C3%BCrztal.jpg"
+
+}

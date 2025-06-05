@@ -1,0 +1,46 @@
+#Role: You are a conversion tool.
+
+#Task: Your task is to convert the following JSON-draft which is maybe invalid, to valid JSON.
+
+#JSON-draft:
+
+{
+  "poi_id": "POI-05",
+  "poi_name": "Stadt Hartberg",
+  "poi_type": "Historische Stadt",
+  "gps_lon": "15.9689",
+  "gps_lat": "47.3767",
+  "overview": {
+    "duration": "2-3 Stunden",
+    "best_time": "Vormittag oder später Nachmittag",
+    "wc": "Öffentliche Toiletten im Stadtzentrum vorhanden"
+  },
+  "need_to_know": {
+    "parking": "Parkdecks und kostenpflichtige Parkplätze im Zentrum, am Parkplatz POST am Wochenende gratis.",
+    "accessibility": "Das historische Zentrum ist teilweise gepflastert, kann mit Kinderwagen und Hund aber gut erkundet werden.",
+    "kid_dog_friendly": "✔️ Ja, im Stadtpark und in Lokalen mit Gastgarten gut möglich.",
+    "picnic_spots": "Der Stadtpark und der Schlosspark bieten schöne Plätze für ein Picknick."
+  },
+  "description": "Hartberg – eine Stadt, die mehr Geschichte in ihren Gassen trägt, als mancher Wanderprediger Anekdoten auf Lager hat! Hier stolpert man förmlich über die Vergangenheit, angefangen bei den Überresten keltischer Siedler bis hin zu römischen Fundamenten unter der Stadtpfarrkirche. Man kann fast die Sandalen der Legionäre knirschen hören oder das Klappern der mittelalterlichen Handelskarren. Das Herzstück ist zweifellos der Hauptplatz, von dem aus man einen Bummel durch die verwinkelten Gassen starten kann. Die Stadtpfarrkirche St. Martin, ein Bauwerk, das auf römischen Mauern ruht und romanische sowie spätbarocke Elemente vereint, ist ein Muss für jeden Liebhaber alter Steine. Gleich daneben steht der Karner, ein spätromanisches Juwel mit faszinierenden Fresken – ein Ort, der zum Nachdenken anregt. Und wenn die kleinen Beine müde werden oder der vierbeinige Freund eine Pause braucht, bieten der Stadtpark und der Schlosspark herrliche Gelegenheiten zum Entspannen oder für ein spontanes Picknick. Apropos Park, der Stadtpark war einst Teil der mittelalterlichen Befestigungsanlagen und beherbergt noch heute Teile der Stadtmauer. Hartberg hat sich übrigens den Titel „Città slow“ verdient, was soviel bedeutet wie „langsame Stadt“. Perfekt also, um dem Alltag zu entfliehen und die Seele baumeln zu lassen, während man sich durch die Geschichte treiben lässt und in einem der netten Lokale mit Gastgarten einkehrt.",
+  "did_you_know": [
+    "Hartberg wurde bereits im 12. Jahrhundert gegründet und war einst bedeutender als Graz.",
+    "Die Stadtpfarrkirche St. Martin wurde auf Fundamenten eines römischen Bauwerks aus der Zeit um 200 n. Chr. errichtet.",
+    "Der Hartberger Karner stammt aus der zweiten Hälfte des 12. Jahrhunderts und ist ein bedeutendes spätromanisches Bauwerk mit Fresken.",
+    "Hartberg gehört zu den \"Kleinen historischen Städten Österreichs\".",
+    "Der Stadtpark war ursprünglich der Festungsgraben und Teil der mittelalterlichen Stadtmauer."
+  ],
+  "riddles": [
+    "Ich trage tausend Jahre Geschichte in meinen Mauern, stehe auf römischem Grund und blicke zum Himmel empor. Wer bin ich?",
+    "Neben mir ruhen Gebeine, doch in meinem Inneren erzählen bunte Bilder Geschichten aus alter Zeit. Wer oder was bin ich?",
+    "Ich war einst Schutz vor Feinden, heute bin ich grüne Lunge der Stadt und lade zum Verweilen ein. Was bin ich?",
+    "Ich wurde 1122 gegründet und war einst eine "langsame Stadt" error-1-double-quotes. Welche Stadt bin ich?",
+    "Ein kleiner Ausflugstipp mit toller Aussicht, wohin können wir von Hartberg wandern, auch mit Hund?  error-2-comma",  
+  ],
+  "riddle_answers": [
+    "Die Stadtpfarrkirche Hartberg",
+    "Der Karner",
+    "Der Stadtpark",
+    "Hartberg",
+    "Zur Ringwarte auf dem Ringkogel. error-3-no-bracket "
+  
+}

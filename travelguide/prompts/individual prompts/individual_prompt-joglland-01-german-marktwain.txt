@@ -1,0 +1,21 @@
+destination_of_trip: Joglland in der Steiermark 
+
+duration_of_trip: 10 Tage
+
+overnight stay: Schlage uns Wohnmobil Stellplätze mit guten Bewertungen vor. Verwende dazu Google Search.
+
+details: Wir wollen folgende Orte nicht besuchen, da wir erst kürzlich dort waren: Vorrau, Pöllau, Pöllauberg und Hartberg. Schlage andere Ziele vor.
+Der Text zur Beschreibung der Geschichte soll drei mal so lang wie in der folgenden Vorlage sein.
+Inkludiere daher die dreifache Anzahl an Paragraphen wie in der Vorlage.
+
+preferences: Geschichte, gotische und romanische Architektur, Naturdenkmäler, landschaftlich reizvolle Routen, Picknicks in schöner Umgebung. Kaffeehäuser oder nette Lokale mit Sitzgelegenheit im Freien und gutbürgerlicher Küche.
+
+need: Wir sind eine Familie mit 2-jährigem Kind und einem großem Hund, daher sollten allzu lange Fahrten vermieden werden. Berücksichtige, dass das Tagesprogramm nicht zu lange sein soll, aber zeige wetterabhängige Alternativen auf. Wir wollen das Programm flexibel an das Wetter anpassen.
+
+context:  Überrasche uns mit einem abwechslungsreichen Programm, geeignet für Kind und Hund. Berücksichtige dabei, dass wir Vorrau, Pöllau, Pöllauberg und Hartberg nicht besuchen wollen.
+
+tone: Mark Twain
+
+style: Fesselnder und klarer, prägnanter Schreibstil
+
+language: Deutsch - antworte in Deutsch, alle Texte sollen in Deutsch sein. Das ist wichtig.

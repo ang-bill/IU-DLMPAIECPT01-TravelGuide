@@ -1,0 +1,12 @@
+Propose an detailed description of tourist attraction useful for a travel guide. Take into account following information and context:
+
+Point of interest:
+{{ poi_ident }}
+
+Context:
+{{ individual_prompt }}
+
+Return the answer as a valid JSON in the same format as in the following example. Take care that the JSON is valid, i.e. do not use double inverted commas in the text. Take into account: The items in overview-section of the JSON are fixed, whereas the items (and JSON keys) in the need_to_know-section of the JSON should be selected upon the given context and preferences. The description should be half a page. did_you_know and riddles should be 5 items each. The language of the text should be as mentioned earlier.
+
+Example:
+{{ poi_prompt_output_example }}

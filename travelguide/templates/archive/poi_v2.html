@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ poi_id }}: {{ poi_name }}</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 2cm;
+            color: #333;
+        }
+        h1, h2 {
+            color: #336633;
+        }
+        table {
+            border: 1px solid #7a9c7d;
+            border-radius: 6px;
+            width: 100%;
+            margin-bottom: 15px;
+            font-size: 0.95em;
+        }
+        table th {
+            background-color: #eef5ea;
+            color: #336633;
+            text-align: left;
+            padding: 8px;
+        }
+        table td {
+            padding: 8px;
+        }
+        table tr:nth-child(even) td {
+            background-color: #f9fcf7;
+        }
+        p {
+            text-align: justify;
+        }
+        .images {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+        .images img {
+            width: 32%;
+            border-radius: 8px;
+        }
+        .box {
+            border: 2px solid #336633;
+            padding: 10px;
+            border-radius: 6px;
+            background-color: #eef5ea;
+            margin-bottom: 15px;
+        }
+        .riddle {
+            border: 2px dashed #7a9c7d;
+            padding: 10px;
+            border-radius: 6px;
+            background-color: #f4f9f3;
+            margin-bottom: 15px;
+        }
+        .info-map {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        .map-container img {
+            width: 100%;
+            height: auto;
+            border: 1px solid black;
+            border-radius: 8px;
+        }
+        .icon {
+            width: 30px;
+            height: 30px;
+            vertical-align: text-bottom;
+            margin-right: 6px;
+            fill: #336633;
+        }
+    </style>
+</head>
+<body>
+
+<h1>{{ poi_id }}: {{ poi_name }}</h1>
+
+<div class="info-map">
+    <div class="map-container">
+                <img src="https://maps.geoapify.com/v1/staticmap?style=osm-carto&width=600&height=300&center=lonlat:{{ gps_lon }},{{ gps_lat }}&zoom=18&scale=2&marker=lonlat:{{ gps_lon }},{{ gps_lat }};color:%23ff0000;size:medium&apiKey={{ geoapify_key }}" alt="Map of {{ poi_name }}" width="600px" height="300px">
+    </div>
+    <div class="map-container">
+        <img src="https://maps.geoapify.com/v1/staticmap?style=osm-carto&width=600&height=300&center=lonlat:{{ gps_lon }},{{ gps_lat }}&zoom=12&scale=2&marker=lonlat:{{ gps_lon }},{{ gps_lat }};color:%23ff0000;size:medium&apiKey={{ geoapify_key }}" alt="Map of {{ poi_name }}" width="600px" height="300px">
+    </div>
+</div>
+
+<div class="info-map">
+    <div>
+        <h2>
+            <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M192 0C86 0 0 86 0 192c0 77.4 111.8 212.4 168.2 276.2 12.3 13.7 33.4 13.7 45.8 0C272.2 404.4 384 269.4 384 192 384 86 298 0 192 0zM192 272c-44.2 0-80-35.8-80-80s35.8-80 80-80 80 35.8 80 80-35.8 80-80 80z"/></svg>
+            At a Glance
+        </h2>
+        <table>
+            <tr><th>Type</th><td>{{ poi_type }}</td></tr>
+            <tr><th>Location (Lat Lon)</th><td><a href="https://www.google.com/maps/search/?api=1&query={{ gps_lat }},{{ gps_lon }}" target="_blank">{{ gps_lat }}, {{ gps_lon }}</a></td></tr>
+            <tr><th>Recommended Duration</th><td>{{ overview.duration }}</td></tr>
+            <tr><th>Best Time to Visit</th><td>{{ overview.best_time }}</td></tr>
+            <tr><th>WC Facilities</th><td>{{ overview.wc }}</td></tr>
+        </table>
+    </div>
+    <div>
+        <h2>
+            <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M256 96a64 64 0 1 0 -128 0 64 64 0 1 0 128 0zM96 96a96 96 0 1 1 192 0 96 96 0 1 1 -192 0zM153.2 256c6.6 0 12.9 3.1 17 8.3l44.7 55.8c14.6 18.2 11.7 44.8-6.5 59.4s-44.8 11.7-59.4-6.5l-9.4-11.7-39.4 49c-14.6 18.2-41.2 20.9-59.4 6.3s-20.9-41.2-6.3-59.4l62.9-78.4c7.6-9.5 19-15.1 31.3-15.1zM426.7 102.7c-6.2-6.2-16.4-6.2-22.6 0L320 186.7l48 48 84.1-84c6.2-6.2 6.2-16.4 0-22.6l-25.4-25.4zM349.3 214.7l-48-48L177.1 290.7l48 48 124.2-124zM533.3 32l57.4 57.4c18.7 18.7 18.7 49.1 0 67.9L476.6 271.4c-12 12-28.3 18.7-45.3 18.7H368v64c0 17.7-14.3 32-32 32H176v32H64c-35.3 0-64 28.7-64 64H560c44.2 0 80-35.8 80-80V144c0-25.5-10.1-49.9-28.1-67.9L533.3 32z"/></svg>
+            Need to know
+        </h2>
+        <table>
+            {% for key, value in need_to_know.items() %}
+            <tr>
+                <th>{{ key.replace('_', ' ').title() }}</th>
+                <td>{{ value }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+</div>
+
+<!--
+<h2>
+    <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 448H48c-26.5 0-48-21.5-48-48V112C0 85.5 21.5 64 48 64h52.1l41.1-41.1C147.5 9.4 164.3 0 182.1 0H329.9c17.8 0 34.6 9.4 44.9 22.9L416 64H464c26.5 0 48 21.5 48 48v288c0 26.5-21.5 48-48 48zM256 120a104 104 0 1 0 0 208 104 104 0 1 0 0-208zM256 296a72 72 0 1 1 0-144 72 72 0 1 1 0 144z"/></svg>
+    Images
+</h2>
+<div class="images">
+    {% for img in images %}
+        <!-- img src="{{ img }}" alt="POI image" -->
+    {% endfor %}
+</div>
+-->
+
+<h2>
+<svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. --><path d="M248 0l16 0c13.3 0 24 10.7 24 24l0 10.7C368.4 48.1 431.9 111.6 445.3 192l2.7 0c17.7 0 32 14.3 32 32s-14.3 32-32 32L64 256c-17.7 0-32-14.3-32-32s14.3-32 32-32l2.7 0C80.1 111.6 143.6 48.1 224 34.7L224 24c0-13.3 10.7-24 24-24zM64 288l64 0 0 128 40 0 0-128 64 0 0 128 48 0 0-128 64 0 0 128 40 0 0-128 64 0 0 132.3c.6 .3 1.2 .7 1.8 1.1l48 32c11.7 7.8 17 22.4 12.9 35.9S494.1 512 480 512L32 512c-14.1 0-26.5-9.2-30.6-22.7s1.1-28.1 12.9-35.9l48-32c.6-.4 1.2-.7 1.8-1.1L64 288z"/></svg><!-- solid/landmark-dome.svg -->
+History & Highlights
+</h2>
+<p>{{ description }}</p>
+
+<h2>
+<svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. --><path d="M272 384c9.6-31.9 29.5-59.1 49.2-86.2c0 0 0 0 0 0c5.2-7.1 10.4-14.2 15.4-21.4c19.8-28.5 31.4-63 31.4-100.3C368 78.8 289.2 0 192 0S16 78.8 16 176c0 37.3 11.6 71.9 31.4 100.3c5 7.2 10.2 14.3 15.4 21.4c0 0 0 0 0 0c19.8 27.1 39.7 54.4 49.2 86.2l160 0zM192 512c44.2 0 80-35.8 80-80l0-16-160 0 0 16c0 44.2 35.8 80 80 80zM112 176c0 8.8-7.2 16-16 16s-16-7.2-16-16c0-61.9 50.1-112 112-112c8.8 0 16 7.2 16 16s-7.2 16-16 16c-44.2 0-80 35.8-80 80z"/></svg><!-- solid/lightbulb.svg -->
+Did You Know?
+</h2>
+<div class="box">
+    <ul>
+    {% for fact in did_you_know %}
+        <li>{{ fact }}</li>
+    {% endfor %}
+    </ul>
+</div>
+
+<h2>
+<svg  class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. --><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg><!-- magnifying-glass.svg -->
+Riddle Rally
+</h2>
+<div class="riddle">
+    <ol>
+    {% for riddle in riddles %}
+        <li>{{ riddle }}</li>
+    {% endfor %}
+    </ol>
+</div>
+
+</body>
+</html>

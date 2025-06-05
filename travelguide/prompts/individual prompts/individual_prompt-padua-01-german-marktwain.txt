@@ -1,0 +1,19 @@
+destination_of_trip: In Abona Terme in der Nähe von Padua, Anreise mit dem eigenen Auto von Obergrafendorf mit Zwischenstopp in Udine
+
+duration_of_trip: 10 days
+
+overnight: Abona Terme
+
+context: Wir sind ein Paar mittleren Alters und fahren nach Abona Terme zu einem Kur- und Wellnessaufenthalt. Einerseits sollen durch den Kuraufenthalt die Symptome der Gicht gelindert werden und andererseits wollen wir den Aufenthalt mit Tagesausflügen bereichern. Berücksichtige, dass wir schon einige Male dort waren, daher kennen wir schon die üblichen Touristenattraktionen. Überrasche uns mit neuen Vorschlägen für Tagesausflüge.
+
+need: Da wir uns in der Therme aufhalten sind wir flexibel und können uns die Tagesausflüge je nach Wetter einteilen. Berücksichtige, dass wegen der Gicht die Fußwege nicht zu lange sein sollten. Spaziergänge sind möglich, aber lange Wanderungen sollten vermieden werden. Restaurants oder Kaffeehäuser sind uns nicht wichtig, da wir in der Therme Essen gebucht haben.
+
+details: Inkludiere in den Tagesausflügen einen Besuch der Universität und des botanischen Gartens. Der Text zur Beschreibung der Geschichte soll doppelt so lang wie in der folgenden Vorlage sein.
+
+preferences: Wir bevorzugen ein abwechslungsreiches Programm, wie zum Beispiel eine bunte Mischung von schöner Landschaft, Architektur, wie Schlösser oder Burgen, und Museen. Wir mögen keine moderne Kunst.
+
+tone: Mark Twain
+
+style: Fesselnder und klarer, prägnanter Schreibstil
+
+language: Deutsch - antworte in Deutsch, alle Texte sollen in Deutsch sein. Das ist wichtig.

@@ -1,0 +1,27 @@
+destination_of_trip: Eastern Styria, start from Lafnitz near Hartberg, Styria
+
+duration_of_trip: 4 days
+
+overnight stay: We will stay overnight with friends in Lafnitz near Hartberg.
+
+details: Include the following destinations in the trip: 
+* Kulm Celtic Village
+* Herberstein zoo and castle
+* Neuhaus Castle (only from the outside)
+* City of Hartberg with church and charnel house
+* Pöllauberg
+* Vorau Abbey
+The text describing the story should be three times as long as the following template.
+Therefore, include three times as many paragraphs as in the template.
+
+preferences: History, Gothic and Romanesque architecture, natural monuments, scenic routes, picnics in beautiful surroundings. Coffee houses or nice pubs with outdoor seating and home-style cooking.
+
+need: We are a family with a 2-year-old child and a large dog, so we should avoid overly long journeys. Bear in mind that the daily programme should not be too long. We want to adapt the programme flexibly to the weather.
+
+context: Surprise us with a varied programme, suitable for child and dog.
+
+tone: Mark Twain
+
+style: Captivating and clear, concise writing style
+
+language: English - reply in English, all texts should be in English. This is important.
