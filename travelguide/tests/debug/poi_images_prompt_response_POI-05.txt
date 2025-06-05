@@ -1,3 +1,0 @@
-{ 'wikimedia_urls': [ 'https://commons.wikimedia.org/wiki/File:Fischotter-Unterwasserreich_2215.JPG',
-                      'https://commons.wikimedia.org/wiki/File:European_otter_02.jpg',
-                      'https://commons.wikimedia.org/wiki/File:130706_Schrems_A_115_(9227185726).jpg']}

@@ -1,3 +1,0 @@
-{ 'wikimedia_urls': [ 'https://commons.wikimedia.org/wiki/File:Burg_Lichtenegg.JPG',
-                      'https://commons.wikimedia.org/wiki/File:Ruine-lichtenegg-detail.jpg',
-                      'https://commons.wikimedia.org/wiki/File:Blick-von-ruine-lichtegg.jpg']}
