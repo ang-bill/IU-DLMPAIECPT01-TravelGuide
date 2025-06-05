@@ -10,3 +10,4 @@ Contents:
   * **travelguide/templates:** HTML templates
   * **travelguide/tests:** Unit tests and testfiles
 * **Generated Travel Guides:** A selection of generated PDF travel guides
+* **Sandbox:** Jupyter notebooks used for sandbox tests (not all functional)
